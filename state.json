@@ -25,8 +25,8 @@
         "57": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "40496334e97b711fa241c40a8edda03826c72e6e",
-            "git_last_date": "191107.161442",
+            "git_last_commit": "44a9d5646604497aa912e55bb3fcd8f803f157b6",
+            "git_last_date": "191109.152503",
             "name": "switchboard-plug-pantheon-shell",
             "package_name": "switchboard-plug-pantheon-shell",
             "package_version": "2.8.1",
@@ -135,8 +135,8 @@
         "74": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "524d46fccc8401a69a7b20cfcd3df590af826a12",
-            "git_last_date": "191107.164332",
+            "git_last_commit": "b273e3ff05fe7553c27128cffee6632242602425",
+            "git_last_date": "191109.152456",
             "name": "switchboard-plug-power",
             "package_name": "switchboard-plug-power",
             "package_version": "2.3.5",
@@ -157,12 +157,12 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "019df3c5474b3f7f66cc58849cebb7739fd7650f",
-            "git_last_date": "191107.190037",
+            "git_last_commit": "ef61ed46f5270062aa00836c9e829fd3099c0930",
+            "git_last_date": "191109.152412",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.2",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.1.2+git%{date}.%{commit}"
         },
         "79": {
@@ -179,8 +179,8 @@
         "80": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "0caf5bbf24152cbeba9449442c8d3a20c0376260",
-            "git_last_date": "191109.062837",
+            "git_last_commit": "8f6ad950255b1111ef1741128e064b63c2566190",
+            "git_last_date": "191109.152415",
             "name": "wingpanel-indicator-bluetooth",
             "package_name": "wingpanel-indicator-bluetooth",
             "package_version": "2.1.3",
@@ -234,12 +234,12 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7e4082224d4b99328eb850ab68cf6cfa7794510a",
-            "git_last_date": "191107.213844",
+            "git_last_commit": "a0a2d7b6148941404064c4ea996061a03c472f00",
+            "git_last_date": "191109.152412",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.5",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.2.5+git%{date}.%{commit}"
         },
         "86": {
@@ -256,8 +256,8 @@
         "87": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "38e6069d14217450b74e6b84b726e2be1b32c87c",
-            "git_last_date": "191106.221432",
+            "git_last_commit": "2dddaad1d2124b0bab77118d85ec05dea9a57888",
+            "git_last_date": "191109.152506",
             "name": "switchboard-plug-sound",
             "package_name": "switchboard-plug-sound",
             "package_version": "2.2.1",
@@ -267,8 +267,8 @@
         "88": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ac8f462997f31abf9b01520f53948e89861a3824",
-            "git_last_date": "191107.162406",
+            "git_last_commit": "086e45a4bf2c99fd76951e4279cf0c3c5b071f6e",
+            "git_last_date": "191109.152455",
             "name": "switchboard-plug-printers",
             "package_name": "switchboard-plug-printers",
             "package_version": "2.1.6",
@@ -300,8 +300,8 @@
         "95": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6d99c3d79bcae86f0a83a1561d0a6d08c79f3c48",
-            "git_last_date": "191109.063554",
+            "git_last_commit": "4f18250e6b9e26d8b5e5d48be3d7a320b7d6c922",
+            "git_last_date": "191109.152415",
             "name": "wingpanel-indicator-network",
             "package_name": "wingpanel-indicator-network",
             "package_version": "2.2.2",
@@ -344,8 +344,8 @@
         "99": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c2162765e06a7078fbc39f073c02720172c4e9e9",
-            "git_last_date": "191107.182518",
+            "git_last_commit": "e3033faae3aa383cd9e9bd4eeba67d9cb3f20b45",
+            "git_last_date": "191109.152449",
             "name": "switchboard-plug-mouse-touchpad",
             "package_name": "switchboard-plug-mouse-touchpad",
             "package_version": "2.2.0",
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e88a709c224d0ff899b9c3e3d906eca2a2096e02",
-            "git_last_date": "191106.182643",
+            "git_last_commit": "dd2dae40f7d3a797b8ed12d499cc2d913b96abe1",
+            "git_last_date": "191109.152431",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.3.6",

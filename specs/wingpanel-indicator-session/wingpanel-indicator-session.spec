@@ -5,7 +5,7 @@
 Name:           wingpanel-indicator-session
 Summary:        Session Indicator for wingpanel
 Version:        2.2.5+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -60,6 +60,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 09 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.5+git191109.152412.a0a2d7b6-1
+- Update to latest snapshot.
+
 * Fri Nov 08 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.5+git191107.213844.7e408222-2
 - Package and verify appdata file.
 
