@@ -6,7 +6,7 @@
 Name:           wingpanel-applications-menu
 Summary:        Lightweight and stylish app launcher
 Version:        2.4.4+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -79,6 +79,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 09 2019 Fabio Valentini <decathorpe@gmail.com> - 2.4.4+git191109.122515.abc0b69f-1
+- Update to latest snapshot.
+
 * Fri Nov 08 2019 Fabio Valentini <decathorpe@gmail.com> - 2.4.4+git191107.213015.68672d78-2
 - Package and verify appdata file.
 
