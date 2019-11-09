@@ -5,7 +5,7 @@
 Name:           wingpanel-indicator-network
 Summary:        Network Indicator for wingpanel
 Version:        2.2.2+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -60,6 +60,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 09 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.2+git191109.063554.6d99c3d7-1
+- Update to latest snapshot.
+
 * Fri Nov 08 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.2+git191107.214110.dc5ac8ec-2
 - Package and verify appdata file.
 
