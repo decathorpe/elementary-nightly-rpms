@@ -58,8 +58,8 @@
         "66": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "624828474eb88c2b73b1ba14b237dd4d25ff68ea",
-            "git_last_date": "191110.202413",
+            "git_last_commit": "b17f9a2c7505ac1a59f156d139c6b04fc7319bbe",
+            "git_last_date": "191112.182416",
             "name": "wingpanel-indicator-sound",
             "package_name": "wingpanel-indicator-sound",
             "package_version": "2.1.3",
@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b941ab7f15fc98d21d85a584f0d19149607face4",
-            "git_last_date": "191110.202411",
+            "git_last_commit": "01018e95d5cb5b34d22656d11ca73dd73956d8b5",
+            "git_last_date": "191112.182413",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.2",
@@ -234,8 +234,8 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "38b1e94255a7244c9a58b364cf6167f03d53437b",
-            "git_last_date": "191110.202414",
+            "git_last_commit": "9e8a45887c5ebef97cbf03b277e617e71bf78a48",
+            "git_last_date": "191112.182416",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.5",
@@ -509,8 +509,8 @@
         "123": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "44a692df58c4aef0a0016b32887a441f9e4b20c0",
-            "git_last_date": "191110.212411",
+            "git_last_commit": "7ae68c2f196d03c757e4e0cd92de234d14087827",
+            "git_last_date": "191112.182414",
             "name": "wingpanel-indicator-nightlight",
             "package_name": "wingpanel-indicator-nightlight",
             "package_version": "2.0.2",
