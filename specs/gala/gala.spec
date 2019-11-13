@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        0.3.1+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -121,6 +121,9 @@ desktop-file-validate \
 
 
 %changelog
+* Wed Nov 13 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191113.205515.70cfe7e6-1
+- Update to latest snapshot.
+
 * Tue Nov 05 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191104.193008.8540e845-2
 - Add missing BR: mesa-libEGL-devel.
 
