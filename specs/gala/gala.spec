@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        0.3.1+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -19,6 +19,7 @@ BuildRequires:  vala
 
 BuildRequires:  gettext-devel
 BuildRequires:  mesa-libEGL-devel
+BuildRequires:  mutter-devel
 
 BuildRequires:  pkgconfig(clutter-1.0) >= 1.12.0
 BuildRequires:  pkgconfig(clutter-gtk-1.0)
@@ -31,8 +32,6 @@ BuildRequires:  pkgconfig(gtk+-3.0)
 BuildRequires:  pkgconfig(libbamf3)
 BuildRequires:  pkgconfig(libcanberra)
 BuildRequires:  pkgconfig(plank) >= 0.11.0
-
-BuildRequires:  mutter328-devel
 
 Requires:       %{name}-libs%{?_isa} = %{version}-%{release}
 
@@ -84,7 +83,14 @@ desktop-file-validate \
     %{buildroot}/%{_datadir}/applications/gala*.desktop
 
 
-%ldconfig_scriptlets
+# .override files don't seem to trigger automatic schema recompilation
+%postun
+if [ $1 -eq 0 ] ; then
+    /usr/bin/glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
+fi
+
+%posttrans
+/usr/bin/glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
 
 
 %files -f gala.lang
@@ -96,6 +102,7 @@ desktop-file-validate \
 %{_datadir}/applications/gala*.desktop
 %{_datadir}/gala/
 %{_datadir}/glib-2.0/schemas/org.pantheon.desktop.gala.gschema.xml
+%{_datadir}/glib-2.0/schemas/20_elementary.pantheon.wm.gschema.override
 %{_datadir}/icons/hicolor/*/apps/multitasking-view.svg
 
 
@@ -121,6 +128,9 @@ desktop-file-validate \
 
 
 %changelog
+* Thu Nov 14 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191113.205515.70cfe7e6-2
+- Switch to mutter 3.3x.
+
 * Wed Nov 13 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191113.205515.70cfe7e6-1
 - Update to latest snapshot.
 
@@ -455,5 +465,4 @@ desktop-file-validate \
 
 * Thu Jan 05 2017 Fabio Valentini <decathorpe@gmail.com> - 0.3.0-0.bzr552.1
 - Initial package.
-
 

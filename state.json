@@ -228,7 +228,7 @@
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.2.6",
-            "rpm_last_release": "1%{?dist}",
+            "rpm_last_release": "2%{?dist}",
             "rpm_last_version": "2.2.6+git%{date}.%{commit}"
         },
         "85": {
@@ -294,7 +294,7 @@
             "name": "gala",
             "package_name": "gala",
             "package_version": "0.3.1",
-            "rpm_last_release": "1%{?dist}",
+            "rpm_last_release": "2%{?dist}",
             "rpm_last_version": "0.3.1+git%{date}.%{commit}"
         },
         "95": {
@@ -591,7 +591,7 @@
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
-            "rpm_last_release": "1%{?dist}",
+            "rpm_last_release": "2%{?dist}",
             "rpm_last_version": "5.0.1+git%{date}.%{commit}"
         },
         "131": {
