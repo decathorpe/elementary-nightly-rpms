@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "107c977438b31c690e78659349d01131818e2a28",
-            "git_last_date": "191114.211113",
+            "git_last_commit": "ee6933d62396113051a9e8bb94f5e3cc922938b9",
+            "git_last_date": "191115.185338",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.2",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ef057b8d1d4db1c245bfea582f07b3e1b38ac66a",
-            "git_last_date": "191114.152418",
+            "git_last_commit": "b5fe382cc515d33327a78093dab7cd069c2c938b",
+            "git_last_date": "191115.185420",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.4.4",
