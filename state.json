@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5a9e7fbecf4fc6502dac8b070b5b266e910f3778",
-            "git_last_date": "191111.122509",
+            "git_last_commit": "c6c9cfe3f428c131084002718cba7b0ca94a9d22",
+            "git_last_date": "191115.215627",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.1",
@@ -212,12 +212,12 @@
         "83": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7146fde30f921aa20578cb8d51908e74da8827c3",
-            "git_last_date": "191107.221606",
+            "git_last_commit": "eb7089cee034b3772784b721aeef60ec36ac0243",
+            "git_last_date": "191115.215411",
             "name": "pantheon-agent-polkit",
             "package_name": "pantheon-agent-polkit",
             "package_version": "0.1.6",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "0.1.6+git%{date}.%{commit}"
         },
         "84": {
@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "568223719fa9eb8b241274f1e66e307135c2d316",
-            "git_last_date": "191106.181548",
+            "git_last_commit": "613d2fa83826c8cfcdf254edffa4059c31238ff5",
+            "git_last_date": "191115.210721",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ee6933d62396113051a9e8bb94f5e3cc922938b9",
-            "git_last_date": "191115.185338",
+            "git_last_commit": "849854b3011cf710174cea310c9a0244d7709112",
+            "git_last_date": "191115.212442",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.2",
@@ -465,12 +465,12 @@
         "119": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "2c96105c82f81733d2769a5565168ae76daf1780",
-            "git_last_date": "191106.223217",
+            "git_last_commit": "c36bda52ca80cce7c06c3eac2dc27356f716f1bb",
+            "git_last_date": "191115.211145",
             "name": "elementary-photos",
             "package_name": "elementary-photos",
             "package_version": "2.6.4",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.6.4+git%{date}.%{commit}"
         },
         "120": {
@@ -498,8 +498,8 @@
         "122": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4f8df77d37690b3422052e3dd33a784542cb7d86",
-            "git_last_date": "191108.142412",
+            "git_last_commit": "678e754e003f22bf331298e5f1e83ac54354988f",
+            "git_last_date": "191115.214444",
             "name": "elementary-screenshot-tool",
             "package_name": "elementary-screenshot-tool",
             "package_version": "1.6.2",
@@ -553,8 +553,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8610b4ebb7a93f4b1a32a3bab4482182b842e709",
-            "git_last_date": "191111.122417",
+            "git_last_commit": "b0f0828dd1af5f3572394c54e54583a2edaa020b",
+            "git_last_date": "191115.220049",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.3",

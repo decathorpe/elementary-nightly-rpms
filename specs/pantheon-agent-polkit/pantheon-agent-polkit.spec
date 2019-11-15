@@ -3,7 +3,7 @@
 Name:           pantheon-agent-polkit
 Summary:        Pantheon Polkit Agent
 Version:        0.1.6+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        LGPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -65,6 +65,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Nov 15 2019 Fabio Valentini <decathorpe@gmail.com> - 0.1.6+git191115.215411.eb7089ce-1
+- Update to latest snapshot.
+
 * Fri Nov 08 2019 Fabio Valentini <decathorpe@gmail.com> - 0.1.6+git191107.221606.7146fde3-2
 - Adapt to changed RDNN identifier.
 
