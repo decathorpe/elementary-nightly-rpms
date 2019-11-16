@@ -7,7 +7,7 @@
 
 Name:           switchboard-plug-%{plug_name}
 Summary:        Switchboard Printers Plug
-Version:        2.1.6+git%{date}.%{commit}
+Version:        2.1.7+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -66,6 +66,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.1.7+git191116.172458.f8dab79f-1
+- Update to version 2.1.7.
+
 * Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.1.6+git191116.172458.f8dab79f-1
 - Update to latest snapshot.
 
