@@ -7,7 +7,7 @@
 
 Name:           switchboard-plug-%{plug_name}
 Summary:        Switchboard Power Plug
-Version:        2.3.5+git%{date}.%{commit}
+Version:        2.4.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3
 
@@ -72,6 +72,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.4.0+git191116.172457.0a3d0f8d-1
+- Update to version 2.4.0.
+
 * Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.3.5+git191116.172457.0a3d0f8d-1
 - Update to latest snapshot.
 
