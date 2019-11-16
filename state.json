@@ -216,9 +216,9 @@
             "git_last_date": "191115.232500",
             "name": "pantheon-agent-polkit",
             "package_name": "pantheon-agent-polkit",
-            "package_version": "0.1.6",
+            "package_version": "1.0.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "0.1.6+git%{date}.%{commit}"
+            "rpm_last_version": "1.0.0+git%{date}.%{commit}"
         },
         "84": {
             "git_branch": "master",
