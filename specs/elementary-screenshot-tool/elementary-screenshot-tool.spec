@@ -1,21 +1,20 @@
-%global srcname screenshot-tool
+%global srcname screenshot
 %global appname io.elementary.screenshot-tool
 
 Name:           elementary-screenshot-tool
-Summary:        Simple screen capture tool
-Version:        1.6.2+git%{date}.%{commit}
+Summary:        Screenshot tool designed for elementary
+Version:        1.7.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        LGPLv3
 
-URL:            http://github.com/elementary/%{srcname}
+URL:            https://github.com/elementary/%{srcname}
 Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  desktop-file-utils
 BuildRequires:  gettext
+BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.24
-
-BuildRequires:  /usr/bin/appstream-util
 
 BuildRequires:  pkgconfig(gdk-pixbuf-2.0)
 BuildRequires:  pkgconfig(glib-2.0)
@@ -25,12 +24,12 @@ BuildRequires:  pkgconfig(libcanberra)
 
 Requires:       hicolor-icon-theme
 
-Provides:       screenshot-tool
-Obsoletes:      screenshot-tool
+Provides:       screenshot-tool = %{version}-%{release}
+Obsoletes:      screenshot-tool < 0.1.4-6
 
 
 %description
-A simple screen capture tool made for the Pantheon desktop environment.
+Screenshot tool designed for elementary.
 
 
 %prep
@@ -69,6 +68,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 1.7.0+git191115.214444.678e754e-1
+- Update to version 1.7.0.
+
 * Fri Nov 15 2019 Fabio Valentini <decathorpe@gmail.com> - 1.6.2+git191115.214444.678e754e-1
 - Update to latest snapshot.
 
