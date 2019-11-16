@@ -480,9 +480,9 @@
             "git_last_date": "191115.231123",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
-            "package_version": "5.3.6",
+            "package_version": "5.4.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "5.3.6+git%{date}.%{commit}"
+            "rpm_last_version": "5.4.0+git%{date}.%{commit}"
         },
         "121": {
             "git_branch": "master",
