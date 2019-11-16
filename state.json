@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c6c9cfe3f428c131084002718cba7b0ca94a9d22",
-            "git_last_date": "191115.215627",
+            "git_last_commit": "5cc78fdde66413a7e4fb60761292a75ddc05af3c",
+            "git_last_date": "191115.232500",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.1",
@@ -91,8 +91,8 @@
         "69": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "adfda6b85ec9c82a1eb5d527a414655fda4965f5",
-            "git_last_date": "191107.102432",
+            "git_last_commit": "4e59ebc335c80592d07f0fc48f27aa5556e34247",
+            "git_last_date": "191115.230419",
             "name": "switchboard-plug-display",
             "package_name": "switchboard-plug-display",
             "package_version": "2.1.9",
@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8a1ee32ac05c614864bc59955b6ae286f04c80cb",
-            "git_last_date": "191108.170809",
+            "git_last_commit": "1aa5f649cee2de5838fbc68dad6b479e8d632b7e",
+            "git_last_date": "191115.232427",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.2.5",
@@ -146,8 +146,8 @@
         "75": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "dbf0498e2e614b10e36ee453cef064abe03c4b97",
-            "git_last_date": "191111.122425",
+            "git_last_commit": "68d42a69a4cd85d4e31fcb4615db089c11a5bd03",
+            "git_last_date": "191115.230958",
             "name": "switchboard-plug-locale",
             "package_name": "switchboard-plug-locale",
             "package_version": "2.4.1",
@@ -212,8 +212,8 @@
         "83": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "eb7089cee034b3772784b721aeef60ec36ac0243",
-            "git_last_date": "191115.215411",
+            "git_last_commit": "e9586c5f9b86bebbe422d52e83eac350b6bbe327",
+            "git_last_date": "191115.232500",
             "name": "pantheon-agent-polkit",
             "package_name": "pantheon-agent-polkit",
             "package_version": "0.1.6",
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "695faec7345b159c4e1c34faeba8158075040e1b",
-            "git_last_date": "191114.112634",
+            "git_last_commit": "4144a00720624e7b39869dd43f81092d5e8be3a0",
+            "git_last_date": "191115.231123",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.3.6",
@@ -553,8 +553,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b0f0828dd1af5f3572394c54e54583a2edaa020b",
-            "git_last_date": "191115.220049",
+            "git_last_commit": "85f1dae4f13e6a8ac9fb80d1365dce415df39a5a",
+            "git_last_date": "191115.232452",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.3",
@@ -586,12 +586,12 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "931d001998cf207a079516d99b0852f90d3568df",
-            "git_last_date": "191114.073940",
+            "git_last_commit": "05e93cdef6a0fbb35a7675df04386837e735b1ee",
+            "git_last_date": "191115.232430",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "5.0.1+git%{date}.%{commit}"
         },
         "131": {

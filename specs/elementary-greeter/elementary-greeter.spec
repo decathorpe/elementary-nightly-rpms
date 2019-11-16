@@ -4,7 +4,7 @@
 Name:           elementary-greeter
 Summary:        LightDM Login Screen for the elementary desktop
 Version:        5.0.1+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -110,6 +110,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 5.0.1+git191115.232430.05e93cde-1
+- Update to latest snapshot.
+
 * Thu Nov 14 2019 Fabio Valentini <decathorpe@gmail.com> - 5.0.1+git191114.073940.931d0019-2
 - Switch to mutter 3.3x.
 
