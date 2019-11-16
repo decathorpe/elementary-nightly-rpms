@@ -40,9 +40,9 @@
             "git_last_date": "191115.232500",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
-            "package_version": "1.0.1",
+            "package_version": "1.0.3",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "1.0.1+git%{date}.%{commit}"
+            "rpm_last_version": "1.0.3+git%{date}.%{commit}"
         },
         "63": {
             "git_branch": "master",
