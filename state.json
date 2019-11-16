@@ -29,9 +29,9 @@
             "git_last_date": "191115.221840",
             "name": "switchboard-plug-pantheon-shell",
             "package_name": "switchboard-plug-pantheon-shell",
-            "package_version": "2.8.1",
+            "package_version": "2.8.2",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.8.1+git%{date}.%{commit}"
+            "rpm_last_version": "2.8.2+git%{date}.%{commit}"
         },
         "62": {
             "git_branch": "master",
