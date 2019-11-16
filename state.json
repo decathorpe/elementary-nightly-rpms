@@ -509,8 +509,8 @@
         "123": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "49091e83ab0a81d8a41073fb26ce7ec93f4fbd4e",
-            "git_last_date": "191114.152419",
+            "git_last_commit": "b572ee4d5babbe70b5189d3deb77f5302d0a8387",
+            "git_last_date": "191116.162419",
             "name": "wingpanel-indicator-nightlight",
             "package_name": "wingpanel-indicator-nightlight",
             "package_version": "2.0.2",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b5fe382cc515d33327a78093dab7cd069c2c938b",
-            "git_last_date": "191115.185420",
+            "git_last_commit": "4475d84ff18433ce6899f18f1c4b19e8ba004e1f",
+            "git_last_date": "191116.162419",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.4.4",
