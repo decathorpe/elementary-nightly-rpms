@@ -326,9 +326,9 @@
             "git_last_date": "191115.221750",
             "name": "switchboard-plug-applications",
             "package_name": "switchboard-plug-applications",
-            "package_version": "2.1.5",
+            "package_version": "2.1.6",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.1.5+git%{date}.%{commit}"
+            "rpm_last_version": "2.1.6+git%{date}.%{commit}"
         },
         "98": {
             "git_branch": "master",
