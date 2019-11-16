@@ -7,7 +7,7 @@
 
 Name:           switchboard-plug-networking
 Summary:        Switchboard Networking plug
-Version:        2.1.4+git%{date}.%{commit}
+Version:        2.2.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -68,6 +68,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.0+git191115.224543.248835b4-1
+- Update to version 2.2.0.
+
 * Fri Nov 15 2019 Fabio Valentini <decathorpe@gmail.com> - 2.1.4+git191115.224543.248835b4-1
 - Update to latest snapshot.
 
