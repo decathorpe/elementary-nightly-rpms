@@ -7,7 +7,7 @@
 
 Name:           switchboard-plug-about
 Summary:        Switchboard System Information plug
-Version:        2.6.0+git%{date}.%{commit}
+Version:        2.6.1+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -64,6 +64,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.6.1+git191116.172430.db7a37e7-1
+- Update to version 2.6.1.
+
 * Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.6.0+git191116.172430.db7a37e7-1
 - Update to latest snapshot.
 

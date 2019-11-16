@@ -403,9 +403,9 @@
             "git_last_date": "191116.172430",
             "name": "switchboard-plug-about",
             "package_name": "switchboard-plug-about",
-            "package_version": "2.6.0",
+            "package_version": "2.6.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.6.0+git%{date}.%{commit}"
+            "rpm_last_version": "2.6.1+git%{date}.%{commit}"
         },
         "111": {
             "git_branch": "master",
