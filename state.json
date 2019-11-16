@@ -150,9 +150,9 @@
             "git_last_date": "191116.172432",
             "name": "switchboard-plug-locale",
             "package_name": "switchboard-plug-locale",
-            "package_version": "2.4.1",
+            "package_version": "2.5.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.4.1+git%{date}.%{commit}"
+            "rpm_last_version": "2.5.0+git%{date}.%{commit}"
         },
         "78": {
             "git_branch": "master",
