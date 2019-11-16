@@ -6,7 +6,7 @@
 
 Name:           switchboard-plug-useraccounts
 Summary:        Switchboard User Accounts Plug
-Version:        2.2.1+git%{date}.%{commit}
+Version:        2.3.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        LGPLv3
 
@@ -68,6 +68,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Nov 16 2019 Fabio Valentini <decathorpe@gmail.com> - 2.3.0+git191115.222540.43249776-1
+- Update to version 2.3.0.
+
 * Fri Nov 15 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.1+git191115.222540.43249776-1
 - Update to latest snapshot.
 
