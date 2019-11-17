@@ -69,8 +69,8 @@
         "67": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "48899c85cec02b6100a4837f2aaffd174c76a746",
-            "git_last_date": "191111.122450",
+            "git_last_commit": "0812e1946ddbb1ab933ca37664b858324dbf1b39",
+            "git_last_date": "191117.212454",
             "name": "switchboard-plug-datetime",
             "package_name": "switchboard-plug-datetime",
             "package_version": "2.1.5",
@@ -256,8 +256,8 @@
         "87": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "53249149e8b7db8eb09f71f1131317cf4d9cf213",
-            "git_last_date": "191116.172506",
+            "git_last_commit": "d72bafe0d3d79df0b2bc5f179982d16e7f6a9d9a",
+            "git_last_date": "191117.212503",
             "name": "switchboard-plug-sound",
             "package_name": "switchboard-plug-sound",
             "package_version": "2.2.2",
@@ -278,8 +278,8 @@
         "89": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3e261eb8f0140d6dc49a577b4c9b48a27372d708",
-            "git_last_date": "191113.184304",
+            "git_last_commit": "e127068c73775805b780f7836e9a1051b65f336c",
+            "git_last_date": "191117.212439",
             "name": "switchboard",
             "package_name": "switchboard",
             "package_version": "2.3.7",
