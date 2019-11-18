@@ -3,12 +3,12 @@
         "9": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a5537e633ea3696804cbaa7ee9b24ea35dc91065",
-            "git_last_date": "191101.170755",
+            "git_last_commit": "233baa493768c4aaf980dac945586e3f3e896040",
+            "git_last_date": "191118.212102",
             "name": "elementary-icon-theme",
             "package_name": "elementary-icon-theme",
             "package_version": "5.1.0",
-            "rpm_last_release": "3%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "5.1.0+git%{date}.%{commit}"
         },
         "10": {
@@ -289,12 +289,12 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "70cfe7e6c87a465e1c4720978b1cb87f8d829a10",
-            "git_last_date": "191113.205515",
+            "git_last_commit": "7845530b9bb6b451a5af2b3ec2ea995f5bc14983",
+            "git_last_date": "191118.211808",
             "name": "gala",
             "package_name": "gala",
             "package_version": "0.3.1",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "0.3.1+git%{date}.%{commit}"
         },
         "95": {
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "09d9e83deed88b4f1d69648339e8ad5bed1ab8d9",
-            "git_last_date": "191117.085051",
+            "git_last_commit": "259887994fabc3d636fc86f0cee5d4852a279d89",
+            "git_last_date": "191118.212357",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.4.0",
