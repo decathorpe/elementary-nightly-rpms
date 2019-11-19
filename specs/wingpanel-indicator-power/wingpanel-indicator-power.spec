@@ -5,7 +5,7 @@
 Name:           wingpanel-indicator-power
 Summary:        Power indicator for wingpanel
 Version:        2.1.4+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -63,6 +63,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Tue Nov 19 2019 Fabio Valentini <decathorpe@gmail.com> - 2.1.4+git191119.165230.4da24040-1
+- Update to latest snapshot.
+
 * Fri Nov 08 2019 Fabio Valentini <decathorpe@gmail.com> - 2.1.4+git191107.213626.bf39291b-2
 - Package and verify appdata file.
 

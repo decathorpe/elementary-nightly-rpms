@@ -80,12 +80,12 @@
         "68": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "bf39291b038effa717a7fc953d7327d2aabc448c",
-            "git_last_date": "191107.213626",
+            "git_last_commit": "4da2404088612c707806aa6955dec6e6c19ec1ce",
+            "git_last_date": "191119.165230",
             "name": "wingpanel-indicator-power",
             "package_name": "wingpanel-indicator-power",
             "package_version": "2.1.4",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.1.4+git%{date}.%{commit}"
         },
         "69": {
@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "849854b3011cf710174cea310c9a0244d7709112",
-            "git_last_date": "191115.212442",
+            "git_last_commit": "1d45e6757bd55c3a75dbb23c800bd97e9914251f",
+            "git_last_date": "191119.163654",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.2",
@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9599ef88b6f5ffcd61b6750cd011678112021ecb",
-            "git_last_date": "191117.202428",
+            "git_last_commit": "5daae976c6fb4a9dea8b784fa667ceb42d2fec35",
+            "git_last_date": "191119.164540",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",
