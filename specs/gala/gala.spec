@@ -128,6 +128,9 @@ fi
 
 
 %changelog
+* Wed Nov 20 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191120.181332.f0d2b2d5-1
+- Update to latest snapshot.
+
 * Wed Nov 20 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191120.171051.2c22f2de-1
 - Update to latest snapshot.
 
