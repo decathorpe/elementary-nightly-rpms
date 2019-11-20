@@ -124,8 +124,8 @@
         "73": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4db540e8a0ae33c590ff4060b3f9fd433c94c96a",
-            "git_last_date": "191117.202503",
+            "git_last_commit": "f55c6bb0ebea878c967304546d9d580b4b134013",
+            "git_last_date": "191120.175715",
             "name": "switchboard-plug-a11y",
             "package_name": "switchboard-plug-a11y",
             "package_version": "2.1.3",
@@ -168,8 +168,8 @@
         "79": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "43249776f34458bae1622915d0436cb3df736ca5",
-            "git_last_date": "191115.222540",
+            "git_last_commit": "e57fcc75e352ea47a3d0f08db6e710fbf80e638d",
+            "git_last_date": "191120.171657",
             "name": "switchboard-plug-useraccounts",
             "package_name": "switchboard-plug-useraccounts",
             "package_version": "2.3.0",
@@ -278,8 +278,8 @@
         "89": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e127068c73775805b780f7836e9a1051b65f336c",
-            "git_last_date": "191117.212439",
+            "git_last_commit": "b7ee46e9c4b2629f43edaf2f203f6bc176d81036",
+            "git_last_date": "191120.174838",
             "name": "switchboard",
             "package_name": "switchboard",
             "package_version": "2.3.7",
@@ -289,8 +289,8 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7845530b9bb6b451a5af2b3ec2ea995f5bc14983",
-            "git_last_date": "191118.211808",
+            "git_last_commit": "2c22f2de8081f6e64115deeadbafdd0c7cd979fb",
+            "git_last_date": "191120.171051",
             "name": "gala",
             "package_name": "gala",
             "package_version": "0.3.1",
