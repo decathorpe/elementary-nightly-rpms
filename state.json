@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8678c24eee988f493763361fcafe578896e685f5",
-            "git_last_date": "191121.080005",
+            "git_last_commit": "0a5952fe2399e2fef414cdf5086825988175ae92",
+            "git_last_date": "191121.080232",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.2",
@@ -190,8 +190,8 @@
         "81": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a30877fdadcb1dbc32e4cd71216465d065341235",
-            "git_last_date": "191117.202504",
+            "git_last_commit": "ec0bd1d1f7162728913f3ca5687ddda20ab5218d",
+            "git_last_date": "191121.084444",
             "name": "switchboard-plug-notifications",
             "package_name": "switchboard-plug-notifications",
             "package_version": "2.1.5",
@@ -311,8 +311,8 @@
         "96": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "f61c048e1788b123d3706e81eb4c1e3c73af8b54",
-            "git_last_date": "191121.080012",
+            "git_last_commit": "0aa43416d56c87245bf0c4ec39f6f723e6156a0d",
+            "git_last_date": "191121.080251",
             "name": "switchboard-plug-networking",
             "package_name": "switchboard-plug-networking",
             "package_version": "2.2.0",
