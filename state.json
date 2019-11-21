@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "613d2fa83826c8cfcdf254edffa4059c31238ff5",
-            "git_last_date": "191115.210721",
+            "git_last_commit": "6344d48007cfd482b2dfc8961d3018e84c74d904",
+            "git_last_date": "191121.001157",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "41f5a0a01b6569444b87b69a18148113da753967",
-            "git_last_date": "191105.000257",
+            "git_last_commit": "aefa58efd066e5d053b764b9c961a4fdb077789e",
+            "git_last_date": "191121.000500",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.2.0",
