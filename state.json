@@ -168,8 +168,8 @@
         "79": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e57fcc75e352ea47a3d0f08db6e710fbf80e638d",
-            "git_last_date": "191120.171657",
+            "git_last_commit": "a91a92141c3da67ce075c766ed05c95c2e58471c",
+            "git_last_date": "191122.172500",
             "name": "switchboard-plug-useraccounts",
             "package_name": "switchboard-plug-useraccounts",
             "package_version": "2.3.0",
@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6344d48007cfd482b2dfc8961d3018e84c74d904",
-            "git_last_date": "191121.001157",
+            "git_last_commit": "58a683e71c9dc58d2b6a272644f36221191edd04",
+            "git_last_date": "191122.172503",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "0575763c513f101422b50be75a0a46c34ee22e99",
-            "git_last_date": "191120.225356",
+            "git_last_commit": "1b283805fffd7474ea935f51aebc9163c6ab3484",
+            "git_last_date": "191122.172452",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.6.3",
