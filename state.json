@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5daae976c6fb4a9dea8b784fa667ceb42d2fec35",
-            "git_last_date": "191119.164540",
+            "git_last_commit": "2edf35974aae2ebb6e4879ef84c9fb306206ab96",
+            "git_last_date": "191122.082434",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",
