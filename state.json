@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "1b283805fffd7474ea935f51aebc9163c6ab3484",
-            "git_last_date": "191122.172452",
+            "git_last_commit": "19d7e165b00fe59109bda5a02e5828f94a0f8dc8",
+            "git_last_date": "191122.225915",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.6.3",
