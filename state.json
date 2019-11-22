@@ -557,9 +557,9 @@
             "git_last_date": "191122.032434",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
-            "package_version": "2.2.3",
+            "package_version": "2.2.4",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.2.3+git%{date}.%{commit}"
+            "rpm_last_version": "2.2.4+git%{date}.%{commit}"
         },
         "128": {
             "git_branch": "master",
