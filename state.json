@@ -542,8 +542,8 @@
         "126": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "799c10d3bc62d17ce84e0f8b22eff1ef4f995b1c",
-            "git_last_date": "191119.210017",
+            "git_last_commit": "8d5e1e996f76f3ae7b1ec5df14fbcdc234346fbe",
+            "git_last_date": "191125.225033",
             "name": "elementary-calendar",
             "package_name": "elementary-calendar",
             "package_version": "5.0.1",
