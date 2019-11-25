@@ -14,8 +14,8 @@
         "10": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "039b04c6475b691af38ede6838cda71975ebb43d",
-            "git_last_date": "191119.210523",
+            "git_last_commit": "f94f7fcfce467621e857d860ade7465c1c2f1884",
+            "git_last_date": "191125.173513",
             "name": "elementary-theme",
             "package_name": "elementary-theme",
             "package_version": "5.3.0",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "0e5e7ca31c51e08d1881c978d3732534813a942c",
-            "git_last_date": "191125.092437",
+            "git_last_commit": "eb7f55449bac4ae8e303b994f07a96a2bbecf862",
+            "git_last_date": "191125.172012",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.6.3",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "665e22c90a3c474a387c51fa972c6c0ae2381a3b",
-            "git_last_date": "191125.164336",
+            "git_last_commit": "5fe45e08aa3beadf2202eb92de3539de31f9acde",
+            "git_last_date": "191125.170700",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.4.4",
