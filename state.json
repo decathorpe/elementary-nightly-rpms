@@ -183,9 +183,9 @@
             "git_last_date": "191125.164253",
             "name": "wingpanel-indicator-bluetooth",
             "package_name": "wingpanel-indicator-bluetooth",
-            "package_version": "2.1.3",
+            "package_version": "2.1.4",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.1.3+git%{date}.%{commit}"
+            "rpm_last_version": "2.1.4+git%{date}.%{commit}"
         },
         "81": {
             "git_branch": "master",
