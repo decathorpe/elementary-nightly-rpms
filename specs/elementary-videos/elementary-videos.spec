@@ -3,7 +3,7 @@
 
 Name:           elementary-videos
 Summary:        Video player and library app from elementary
-Version:        2.6.3+git%{date}.%{commit}
+Version:        2.7.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -72,6 +72,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Mon Nov 25 2019 Fabio Valentini <decathorpe@gmail.com> - 2.7.0+git191125.172012.eb7f5544-1
+- Update to version 2.7.0.
+
 * Mon Nov 25 2019 Fabio Valentini <decathorpe@gmail.com> - 2.6.3+git191125.172012.eb7f5544-1
 - Update to latest snapshot.
 

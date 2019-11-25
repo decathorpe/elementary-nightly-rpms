@@ -535,9 +535,9 @@
             "git_last_date": "191125.172012",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
-            "package_version": "2.6.3",
+            "package_version": "2.7.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.6.3+git%{date}.%{commit}"
+            "rpm_last_version": "2.7.0+git%{date}.%{commit}"
         },
         "126": {
             "git_branch": "master",
