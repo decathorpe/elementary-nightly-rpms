@@ -1,5 +1,7 @@
 %global __provides_exclude_from ^%{_libdir}/wingpanel/.*\\.so$
 
+%global appname io.elementary.wingpanel.bluetooth
+
 Name:           wingpanel-indicator-bluetooth
 Summary:        Bluetooth Indicator for wingpanel
 Version:        2.1.4+git%{date}.%{commit}
@@ -10,9 +12,9 @@ URL:            https://github.com/elementary/%{name}
 Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  gettext
+BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.22.0
-BuildRequires:  vala-tools
 
 BuildRequires:  pkgconfig(glib-2.0) >= 2.32
 BuildRequires:  pkgconfig(granite)
@@ -44,6 +46,11 @@ A bluetooth indicator for wingpanel.
 %find_lang bluetooth-indicator
 
 
+%check
+appstream-util validate-relax --nonet \
+    %{buildroot}/%{_datadir}/metainfo/%{appname}.appdata.xml
+
+
 %files -f bluetooth-indicator.lang
 %doc README.md
 %license COPYING
@@ -51,6 +58,7 @@ A bluetooth indicator for wingpanel.
 %{_libdir}/wingpanel/libbluetooth.so
 
 %{_datadir}/glib-2.0/schemas/io.elementary.desktop.wingpanel.bluetooth.gschema.xml
+%{_datadir}/metainfo/%{appname}.appdata.xml
 
 
 %changelog
