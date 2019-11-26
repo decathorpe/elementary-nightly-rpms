@@ -14,8 +14,8 @@
         "10": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e99a3a7a977be39ea6086399bab795517860c41e",
-            "git_last_date": "191125.195925",
+            "git_last_commit": "049c119ed9823494bce1e2ebc0bebfc82bf1e904",
+            "git_last_date": "191125.235502",
             "name": "elementary-theme",
             "package_name": "elementary-theme",
             "package_version": "5.3.0",
@@ -542,8 +542,8 @@
         "126": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8d5e1e996f76f3ae7b1ec5df14fbcdc234346fbe",
-            "git_last_date": "191125.225033",
+            "git_last_commit": "08e4d01178477862c5541cb5db84c365f11e265e",
+            "git_last_date": "191125.231409",
             "name": "elementary-calendar",
             "package_name": "elementary-calendar",
             "package_version": "5.0.1",
