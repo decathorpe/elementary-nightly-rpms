@@ -245,8 +245,8 @@
         "86": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "21d64f4c1c7337f550140e8df851606cc8d6b25f",
-            "git_last_date": "191126.175801",
+            "git_last_commit": "65c15ace4bffee443f19f8d318ca0898bed315f2",
+            "git_last_date": "191126.181005",
             "name": "wingpanel-indicator-datetime",
             "package_name": "wingpanel-indicator-datetime",
             "package_version": "2.2.0",
@@ -542,8 +542,8 @@
         "126": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a11723eea73d6d15757a23ce1f71e44dcbf65dc6",
-            "git_last_date": "191126.175945",
+            "git_last_commit": "89b4661756b363d525ef2d18978dca52c3abb162",
+            "git_last_date": "191126.181231",
             "name": "elementary-calendar",
             "package_name": "elementary-calendar",
             "package_version": "5.0.1",
