@@ -447,9 +447,9 @@
             "git_last_date": "191124.192138",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
-            "package_version": "1.5.3",
+            "package_version": "1.5.4",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "1.5.3+git%{date}.%{commit}"
+            "rpm_last_version": "1.5.4+git%{date}.%{commit}"
         },
         "118": {
             "git_branch": "master",
