@@ -249,9 +249,9 @@
             "git_last_date": "191126.181005",
             "name": "wingpanel-indicator-datetime",
             "package_name": "wingpanel-indicator-datetime",
-            "package_version": "2.2.0",
+            "package_version": "2.2.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.2.0+git%{date}.%{commit}"
+            "rpm_last_version": "2.2.1+git%{date}.%{commit}"
         },
         "87": {
             "git_branch": "master",
