@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c93fb338837440f76ed071465552dc38c4828094",
-            "git_last_date": "191124.192138",
+            "git_last_commit": "5c3442e7a8dfc2d80b2d308c4c1670ae6d00c0bd",
+            "git_last_date": "191129.022521",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.4",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7ce01203f54b91972da94d209384b231c898d214",
-            "git_last_date": "191127.082443",
+            "git_last_commit": "168d1ed0aec6ac8643cf90ebfa5be29dfd9da9a3",
+            "git_last_date": "191129.022443",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.7.0",
