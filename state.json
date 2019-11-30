@@ -344,8 +344,8 @@
         "99": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4b9e6b077a0de7f99b839f284db2c8ac75e6a09a",
-            "git_last_date": "191129.182345",
+            "git_last_commit": "2eaa0250ca6efc986a82420dcd14ae92c543d1fa",
+            "git_last_date": "191130.172301",
             "name": "switchboard-plug-mouse-touchpad",
             "package_name": "switchboard-plug-mouse-touchpad",
             "package_version": "2.3.0",
