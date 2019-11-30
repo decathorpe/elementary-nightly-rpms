@@ -25,8 +25,8 @@
         "57": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "2b81a2cfb77c4c73e6c640d7dcbacc7aafc070dc",
-            "git_last_date": "191129.002457",
+            "git_last_commit": "4d67fb70b059ef4275f4dd063d4b603370d1ffe4",
+            "git_last_date": "191130.082547",
             "name": "switchboard-plug-pantheon-shell",
             "package_name": "switchboard-plug-pantheon-shell",
             "package_version": "2.8.2",
@@ -256,8 +256,8 @@
         "87": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d071ae26a2113ea4b7e19f3f0f0d8bf4bfc016a6",
-            "git_last_date": "191128.162550",
+            "git_last_commit": "cd611a054a3604ed7dee2b91740d32b936673e0c",
+            "git_last_date": "191130.082522",
             "name": "switchboard-plug-sound",
             "package_name": "switchboard-plug-sound",
             "package_version": "2.2.2",
@@ -267,8 +267,8 @@
         "88": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "60f7bb321b28ed2969d8c52dd8da018dc45c14ab",
-            "git_last_date": "191127.202536",
+            "git_last_commit": "9d3d2f4c9fd97ac3843f4e8e996b8541a9bce353",
+            "git_last_date": "191130.082510",
             "name": "switchboard-plug-printers",
             "package_name": "switchboard-plug-printers",
             "package_version": "2.1.7",
@@ -432,8 +432,8 @@
         "116": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8004a5a4da9ca032fa59c33e4cb8541d7b6ad1ee",
-            "git_last_date": "191106.081630",
+            "git_last_commit": "e03d52e63d8ea1ffb882fe72f134ec5f97aa38c9",
+            "git_last_date": "191130.082510",
             "name": "switchboard-plug-security-privacy",
             "package_name": "switchboard-plug-security-privacy",
             "package_version": "2.2.1",
