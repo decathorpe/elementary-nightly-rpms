@@ -348,9 +348,9 @@
             "git_last_date": "191201.215425",
             "name": "switchboard-plug-mouse-touchpad",
             "package_name": "switchboard-plug-mouse-touchpad",
-            "package_version": "2.3.0",
+            "package_version": "2.3.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.3.0+git%{date}.%{commit}"
+            "rpm_last_version": "2.3.1+git%{date}.%{commit}"
         },
         "100": {
             "git_branch": "master",
