@@ -245,8 +245,8 @@
         "86": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "2185278755b5ef3f04cdcdc1917cd7822a1357c3",
-            "git_last_date": "191204.212451",
+            "git_last_commit": "3ccd05d611e6dd5274a03f061ba1b5e13d6fe0cf",
+            "git_last_date": "191206.184132",
             "name": "wingpanel-indicator-datetime",
             "package_name": "wingpanel-indicator-datetime",
             "package_version": "2.2.1",
@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6a9a231b511f8ad0e8188f3b6063337f3384a0b5",
-            "git_last_date": "191203.092451",
+            "git_last_commit": "1600554fc4a763cae448406b5c396dfa4118a3a0",
+            "git_last_date": "191206.183747",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
