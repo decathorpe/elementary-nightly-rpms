@@ -553,8 +553,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d28667a9aed4c8a444bd70d3267c13784bab2a7c",
-            "git_last_date": "191204.212603",
+            "git_last_commit": "341d668e6c39b2e2a90d1cefd33a65a533d21811",
+            "git_last_date": "191209.215002",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3af4e0eb76001befe6e1aaa0de6d22db4e560d20",
-            "git_last_date": "191204.212453",
+            "git_last_commit": "1d33314b7f667c85fd9a03880eeda2f07fb8c011",
+            "git_last_date": "191209.212917",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
