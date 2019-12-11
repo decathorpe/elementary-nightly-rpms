@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "da9e5e33240df500e3401147661a003a527186c7",
-            "git_last_date": "191210.220838",
+            "git_last_commit": "e11ec2a3ffc3192d4a30ce43e8b3e138f547dcc8",
+            "git_last_date": "191210.233026",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.2.5",
@@ -311,8 +311,8 @@
         "96": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8d3446d7f8ee97da72c8e97d0b06fa887d397f0e",
-            "git_last_date": "191121.215025",
+            "git_last_commit": "fb2a6c7340d2ac8852a0cbdd28d2aa61e9017275",
+            "git_last_date": "191210.233225",
             "name": "switchboard-plug-networking",
             "package_name": "switchboard-plug-networking",
             "package_version": "2.2.0",
