@@ -6,7 +6,7 @@ apps built for elementary.}
 Name:           granite
 Summary:        elementary companion library for GTK+ and GLib
 Version:        5.2.5+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        LGPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -14,6 +14,7 @@ Source0:        %{name}-%{version}.tar.gz
 
 BuildRequires:  desktop-file-utils
 BuildRequires:  gettext
+BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.40
 
@@ -58,6 +59,9 @@ This package contains the development headers.
 desktop-file-validate \
     %{buildroot}/%{_datadir}/applications/io.elementary.granite.demo.desktop
 
+appstream-util validate-relax --nonet \
+    %{buildroot}/%{_datadir}/metainfo/%{name}.appdata.xml
+
 
 %files -f granite.lang
 %doc README.md
@@ -71,6 +75,8 @@ desktop-file-validate \
 %{_datadir}/icons/hicolor/*/actions/appointment.svg
 %{_datadir}/icons/hicolor/*/actions/open-menu.svg
 %{_datadir}/icons/hicolor/scalable/actions/open-menu-symbolic.svg
+
+%{_datadir}/metainfo/%{name}.appdata.xml
 
 
 %files devel
@@ -91,6 +97,9 @@ desktop-file-validate \
 
 
 %changelog
+* Wed Dec 11 2019 Fabio Valentini <decathorpe@gmail.com> - 5.2.5+git191210.233026.e11ec2a3-2
+- Package and validate appdata file.
+
 * Wed Dec 11 2019 Fabio Valentini <decathorpe@gmail.com> - 5.2.5+git191210.233026.e11ec2a3-1
 - Update to latest snapshot.
 
