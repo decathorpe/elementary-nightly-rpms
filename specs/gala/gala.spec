@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        0.3.1+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -14,6 +14,7 @@ Patch0:         00-fedora-default-settings.patch
 
 BuildRequires:  desktop-file-utils
 BuildRequires:  gettext
+BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala
 
@@ -82,15 +83,8 @@ This package contains the development headers.
 desktop-file-validate \
     %{buildroot}/%{_datadir}/applications/gala*.desktop
 
-
-# .override files don't seem to trigger automatic schema recompilation
-%postun
-if [ $1 -eq 0 ] ; then
-    /usr/bin/glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
-fi
-
-%posttrans
-/usr/bin/glib-compile-schemas %{_datadir}/glib-2.0/schemas &> /dev/null || :
+appstream-util validate-relax --nonet \
+    %{buildroot}/%{_datadir}/metainfo/%{name}.appdata.xml
 
 
 %files -f gala.lang
@@ -104,6 +98,7 @@ fi
 %{_datadir}/glib-2.0/schemas/org.pantheon.desktop.gala.gschema.xml
 %{_datadir}/glib-2.0/schemas/20_elementary.pantheon.wm.gschema.override
 %{_datadir}/icons/hicolor/*/apps/multitasking-view.svg
+%{_datadir}/metainfo/%{name}.appdata.xml
 
 
 %files libs
@@ -128,6 +123,9 @@ fi
 
 
 %changelog
+* Wed Dec 11 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191211.011637.4782c185-2
+- Package and verify appdata file.
+
 * Wed Dec 11 2019 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git191211.011637.4782c185-1
 - Update to latest snapshot.
 
