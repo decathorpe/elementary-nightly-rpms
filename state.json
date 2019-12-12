@@ -639,6 +639,17 @@
             "package_version": "0.11.4",
             "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "0.11.4+git%{date}.%{commit}"
+        },
+        "136": {
+            "git_branch": "master",
+            "git_commit": "HEAD",
+            "git_last_commit": "ec740aa74871aeab34508d4d3d1246bac500cdc4",
+            "git_last_date": "191128.162518",
+            "name": "elementary-sideload",
+            "package_name": "elementary-sideload",
+            "package_version": "1.0.0",
+            "rpm_last_release": "1%{?dist}",
+            "rpm_last_version": "1.0.0+git%{date}.%{commit}"
         }
     }
 }
