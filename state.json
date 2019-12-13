@@ -289,12 +289,12 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4782c1851a5bd4de4c355a0fb302e9726af628d3",
-            "git_last_date": "191211.011637",
+            "git_last_commit": "c42b26bbdcfd93282439b3b81d649d8beac1efca",
+            "git_last_date": "191213.200704",
             "name": "gala",
             "package_name": "gala",
             "package_version": "0.3.1",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "0.3.1+git%{date}.%{commit}"
         },
         "95": {
@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b450cd544b6ffafc2074cab92498915a11e4c827",
-            "git_last_date": "191213.140701",
+            "git_last_commit": "faf614e30de3009a4f8d2fbd0cdb62d87d2a958f",
+            "git_last_date": "191213.200042",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.4",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d69e8d1f2c47665808a590ec84b5b3cf4f0fdc0d",
-            "git_last_date": "191208.124810",
+            "git_last_commit": "f6b4c79c8f5481ab9cf1440667c0a294882f5719",
+            "git_last_date": "191213.200515",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.2.0",
