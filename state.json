@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "774f6bfcc34cf9d45d14bd19cb266dc1a0c6d868",
-            "git_last_date": "191213.194203",
+            "git_last_commit": "5ef7085465b1a7407ca06874e329994729b057a8",
+            "git_last_date": "191214.210703",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.2.5",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9951b541940cd3322f8f5d9b12adf05cc3b60fc2",
-            "git_last_date": "191212.012505",
+            "git_last_commit": "742bac4c8c67fea86e4bad9d1049dab2dbb0a3bb",
+            "git_last_date": "191214.210703",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.7.0",
