@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5ef7085465b1a7407ca06874e329994729b057a8",
-            "git_last_date": "191214.210703",
+            "git_last_commit": "e1e95e8c982c1e3514a6086013f24fe6d4cb1695",
+            "git_last_date": "191216.180711",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.2.5",
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "f7b17e5aaede9c9545011b4304ed4082dd9b3b78",
-            "git_last_date": "191214.174103",
+            "git_last_commit": "540f43bfd273b6b0444e3a8e4d1e1ac87f39d653",
+            "git_last_date": "191216.182017",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.4.0",
@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "37eba6d6226daa6efcd1d5987bf8fc1842785a17",
-            "git_last_date": "191215.230721",
+            "git_last_commit": "7aa291ad2bd05f64b37296e53b22d60c6e8df8fe",
+            "git_last_date": "191216.185220",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
@@ -643,8 +643,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5778153bf186d93df6f2fdff19f3bd8c22cdb0eb",
-            "git_last_date": "191215.230708",
+            "git_last_commit": "1add77ccd984d44ec872da87a78992d4373acfdb",
+            "git_last_date": "191216.190014",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.0",
