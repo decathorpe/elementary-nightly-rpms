@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "38ee141fa4d99ce3e20636663655d88b66f984ee",
-            "git_last_date": "191207.213706",
+            "git_last_commit": "37eba6d6226daa6efcd1d5987bf8fc1842785a17",
+            "git_last_date": "191215.230721",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
@@ -643,8 +643,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ec740aa74871aeab34508d4d3d1246bac500cdc4",
-            "git_last_date": "191128.162518",
+            "git_last_commit": "5778153bf186d93df6f2fdff19f3bd8c22cdb0eb",
+            "git_last_date": "191215.230708",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.0",
