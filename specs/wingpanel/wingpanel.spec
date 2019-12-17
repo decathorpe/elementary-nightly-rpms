@@ -7,7 +7,7 @@ launcher.}
 Name:           wingpanel
 Summary:        Stylish top panel
 Version:        2.2.6+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -115,6 +115,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Tue Dec 17 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git191217.224954.4db5ec3d-1
+- Update to latest snapshot.
+
 * Thu Nov 14 2019 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git191107.202405.d8aeb883-2
 - Rebuild for switch to mutter 3.3x.
 
