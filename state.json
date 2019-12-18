@@ -256,8 +256,8 @@
         "87": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "edf52cced1ceea28f3824f9373f43ee9fab5bd87",
-            "git_last_date": "191217.170900",
+            "git_last_commit": "6c9aad0f6770979eb58529e5a5d7e52fca9d1171",
+            "git_last_date": "191218.190024",
             "name": "switchboard-plug-sound",
             "package_name": "switchboard-plug-sound",
             "package_version": "2.2.2",
@@ -344,8 +344,8 @@
         "99": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5b06a266884c6b72fd483b184f7a89d0a4702046",
-            "git_last_date": "191218.180025",
+            "git_last_commit": "f6a7d12117d92f2685b75c44c136861ee4cf74a4",
+            "git_last_date": "191218.184524",
             "name": "switchboard-plug-mouse-touchpad",
             "package_name": "switchboard-plug-mouse-touchpad",
             "package_version": "2.3.1",
