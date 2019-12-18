@@ -135,8 +135,8 @@
         "74": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a8aed964afaef3d33a741ee009c1aa01d540e70e",
-            "git_last_date": "191217.183712",
+            "git_last_commit": "d5f7582270138b60925c05f620ccad0ad63169e6",
+            "git_last_date": "191218.210038",
             "name": "switchboard-plug-power",
             "package_name": "switchboard-plug-power",
             "package_version": "2.4.0",
@@ -267,8 +267,8 @@
         "88": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9b87bdf36cd464c5dff4b83623db653dcd0e85a5",
-            "git_last_date": "191218.200034",
+            "git_last_commit": "2cf4367819e5e31f55eb382f7119718ef8a16891",
+            "git_last_date": "191218.201959",
             "name": "switchboard-plug-printers",
             "package_name": "switchboard-plug-printers",
             "package_version": "2.1.7",
@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "eaa6af9679a48cef1daf94239bdb156af34aae1c",
-            "git_last_date": "191215.020703",
+            "git_last_commit": "ea597cc3b7f5e576463bdd47c0ae6b55a8d355fa",
+            "git_last_date": "191218.202911",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",
