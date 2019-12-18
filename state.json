@@ -47,8 +47,8 @@
         "63": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4bd4f6825f45342aa5fb3a8188782be83c0753e3",
-            "git_last_date": "191217.200145",
+            "git_last_commit": "3d48d78cfa3820433e64a1210b4240f659b7da36",
+            "git_last_date": "191218.175535",
             "name": "switchboard-plug-onlineaccounts",
             "package_name": "switchboard-plug-onlineaccounts",
             "package_version": "2.0.1",
@@ -344,8 +344,8 @@
         "99": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "1b9440eb49d08951d1bc79cc57492931852c8b4d",
-            "git_last_date": "191205.184942",
+            "git_last_commit": "5b06a266884c6b72fd483b184f7a89d0a4702046",
+            "git_last_date": "191218.180025",
             "name": "switchboard-plug-mouse-touchpad",
             "package_name": "switchboard-plug-mouse-touchpad",
             "package_version": "2.3.1",
