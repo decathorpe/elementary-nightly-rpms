@@ -117,9 +117,9 @@
             "git_last_date": "191218.191213",
             "name": "granite",
             "package_name": "granite",
-            "package_version": "5.2.5",
+            "package_version": "5.3.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "5.2.5+git%{date}.%{commit}"
+            "rpm_last_version": "5.3.0+git%{date}.%{commit}"
         },
         "73": {
             "git_branch": "master",
