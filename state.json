@@ -311,8 +311,8 @@
         "96": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "11842e64e83ef949573c5ad73e145bd662987aae",
-            "git_last_date": "191214.150711",
+            "git_last_commit": "6e31578a44fc455619c39acc9a151b1b545ac951",
+            "git_last_date": "191219.150716",
             "name": "switchboard-plug-networking",
             "package_name": "switchboard-plug-networking",
             "package_version": "2.2.0",
@@ -366,8 +366,8 @@
         "101": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "84939fe2cec78278cd7a657751bb0642b062053d",
-            "git_last_date": "191217.195711",
+            "git_last_commit": "fff4aec7f77374d3161d16ea257d84684b283f68",
+            "git_last_date": "191219.150713",
             "name": "switchboard-plug-sharing",
             "package_name": "switchboard-plug-sharing",
             "package_version": "2.1.3",
@@ -443,8 +443,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5daaa7f9c39055c289df4fa0a2180fc0bef3a272",
-            "git_last_date": "191215.010706",
+            "git_last_commit": "4c507641a8846f6cf042c8c3d41b2e6937586968",
+            "git_last_date": "191219.150713",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.4",
