@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "14f89f2f017b55a414ae825d1a65e7635ba2d0f6",
-            "git_last_date": "191218.191213",
+            "git_last_commit": "50721e2bbcb69ae658c74faaea0de3457c0ffef8",
+            "git_last_date": "191220.004434",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -289,8 +289,8 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "eca2bb1dfb22f01fc19abd2d5baf35841517e5f0",
-            "git_last_date": "191218.223802",
+            "git_last_commit": "3ab1e824e3751b1559d895d41bc9b62e44d3452e",
+            "git_last_date": "191220.004432",
             "name": "gala",
             "package_name": "gala",
             "package_version": "0.3.1",
@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a6711f4a6c03b20433e800fa878524695f952200",
-            "git_last_date": "191218.191212",
+            "git_last_commit": "f24578fbc260f24efe76a68244765bafb3592e24",
+            "git_last_date": "191220.004433",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
@@ -643,8 +643,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a8e59fe22c839059c61b357ad97c1f8b4f8ebbf3",
-            "git_last_date": "191218.191209",
+            "git_last_commit": "7f5aeadf897febdb5e4351928a89b1f4cf9159b4",
+            "git_last_date": "191220.004431",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.0",
