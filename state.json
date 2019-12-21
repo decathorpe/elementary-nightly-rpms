@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "12c90d21b81c980d43b3e3ccb37a5d8eb6bee466",
-            "git_last_date": "191218.225051",
+            "git_last_commit": "874b0bdc36fb5cbf850d2e7b4075d8627bb0caee",
+            "git_last_date": "191221.090712",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.3",
