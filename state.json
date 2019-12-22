@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "874b0bdc36fb5cbf850d2e7b4075d8627bb0caee",
-            "git_last_date": "191221.090712",
+            "git_last_commit": "34d5410e26c1d7b83530a59de7d3b8643fa3d526",
+            "git_last_date": "191222.113229",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.3",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a3ddfc0b93f4decbf6fa2da77e2ef4342d9cba72",
-            "git_last_date": "191220.194933",
+            "git_last_commit": "7c55b65b3cbf4fdd6aa3a03bda7ff46db40f09f2",
+            "git_last_date": "191222.113230",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
