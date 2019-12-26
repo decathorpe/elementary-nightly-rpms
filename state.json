@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "db8543b1543d7ded6998a36b74b6d111250f2195",
-            "git_last_date": "191226.165743",
+            "git_last_commit": "c234abfd769721bdad097050ca3072d44b5f596d",
+            "git_last_date": "191226.191723",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.2.0",
@@ -575,8 +575,8 @@
         "129": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "094c1981399bf538d384265ada5c3365fe5a3fe2",
-            "git_last_date": "191220.165943",
+            "git_last_commit": "26dd00b5d23cc644dcad9c24c7af3535460db47a",
+            "git_last_date": "191226.193601",
             "name": "elementary-mail",
             "package_name": "elementary-mail",
             "package_version": "1.0.8",
