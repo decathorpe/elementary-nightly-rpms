@@ -245,8 +245,8 @@
         "86": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d3e387ef066ba76dff47f430660d2f116b983b09",
-            "git_last_date": "191225.151722",
+            "git_last_commit": "25ad991a91a64a349330230a4a03afdef9876033",
+            "git_last_date": "191226.010827",
             "name": "wingpanel-indicator-datetime",
             "package_name": "wingpanel-indicator-datetime",
             "package_version": "2.2.1",
@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "812d718d367c8c470b06d6d758630f53a9e32b2e",
-            "git_last_date": "191223.043359",
+            "git_last_commit": "73821d82b50f464de09bb664f80d38c20384e7db",
+            "git_last_date": "191226.014704",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "361350661be808cf0143cc24a874d7b251d51fd6",
-            "git_last_date": "191225.151725",
+            "git_last_commit": "dc06432fb7196ff8b7da401b30972b5f1217bddf",
+            "git_last_date": "191226.010830",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
