@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e69dd13453f6c6b2bbd50f96025e613edeb1867f",
-            "git_last_date": "191229.052124",
+            "git_last_commit": "568d467b94c06a7413a01d1b7456d7427d5f5429",
+            "git_last_date": "191230.202516",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9f70242ec092808168556e40359a1deaaf54da2f",
-            "git_last_date": "191228.131329",
+            "git_last_commit": "9596d7746565fa3faf3268ad017fbd6e99549939",
+            "git_last_date": "191230.201005",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.4.0",
@@ -575,8 +575,8 @@
         "129": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "26dd00b5d23cc644dcad9c24c7af3535460db47a",
-            "git_last_date": "191226.193601",
+            "git_last_commit": "f5b239c3e9a11edcf6e9b6505f5fecb6958718e9",
+            "git_last_date": "191230.203112",
             "name": "elementary-mail",
             "package_name": "elementary-mail",
             "package_version": "1.0.8",
