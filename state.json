@@ -58,8 +58,8 @@
         "66": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "862f2f5635929c36a59362163e0643651885d372",
-            "git_last_date": "200105.170741",
+            "git_last_commit": "71b164d1f7ce41b03d8fd04de84d9082cc4a9d13",
+            "git_last_date": "200106.190736",
             "name": "wingpanel-indicator-sound",
             "package_name": "wingpanel-indicator-sound",
             "package_version": "2.1.4",
@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ecf48b2da4d5745077802a73559e4c4b766a3dbb",
-            "git_last_date": "200105.170734",
+            "git_last_commit": "6016c6be92e2037d25f1176649b1707a42cb38c2",
+            "git_last_date": "200106.190736",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.3",
@@ -190,8 +190,8 @@
         "81": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c72947c18787a07abbc0d80eca5321fbd66cb9b1",
-            "git_last_date": "200101.160730",
+            "git_last_commit": "7aba6119509f73f3064eb945bb2a3b52d8406acc",
+            "git_last_date": "200106.190741",
             "name": "switchboard-plug-notifications",
             "package_name": "switchboard-plug-notifications",
             "package_version": "2.1.5",
@@ -234,8 +234,8 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "20ed4fc73a1059eba4300043437c2b5ac75b5f61",
-            "git_last_date": "200103.210732",
+            "git_last_commit": "85b5ee6f3cfc69ea2f1c5031f3e53fcd7e0a078d",
+            "git_last_date": "200106.190736",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.6",
