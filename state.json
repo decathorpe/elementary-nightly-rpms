@@ -69,8 +69,8 @@
         "67": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "22513a5cd207395bf1cde4205259980e336ed03e",
-            "git_last_date": "200106.210743",
+            "git_last_commit": "136507ea6b8bb0e4b22980d70f55e8c9f0487fcf",
+            "git_last_date": "200107.183201",
             "name": "switchboard-plug-datetime",
             "package_name": "switchboard-plug-datetime",
             "package_version": "2.1.5",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c63cd461c3f1403f5f0e0eb9493cef87d20ffde4",
-            "git_last_date": "200106.225338",
+            "git_last_commit": "6fa5e44da4e1e9423fd22386c2a4c9592c2f146a",
+            "git_last_date": "200107.185325",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.2.0",
