@@ -458,9 +458,9 @@
             "git_last_date": "200107.185325",
             "name": "elementary-files",
             "package_name": "elementary-files",
-            "package_version": "4.2.0",
+            "package_version": "4.3.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "4.2.0+git%{date}.%{commit}"
+            "rpm_last_version": "4.3.0+git%{date}.%{commit}"
         },
         "119": {
             "git_branch": "master",

@@ -5,7 +5,7 @@
 
 Name:           elementary-files
 Summary:        File manager from elementary
-Version:        4.2.0+git%{date}.%{commit}
+Version:        4.3.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3
 
@@ -117,6 +117,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 08 2020 Fabio Valentini <decathorpe@gmail.com> - 4.3.0+git200107.185325.6fa5e44d-1
+- Update to version 4.3.0.
+
 * Tue Jan 07 2020 Fabio Valentini <decathorpe@gmail.com> - 4.2.0+git200107.185325.6fa5e44d-1
 - Update to latest snapshot.
 
