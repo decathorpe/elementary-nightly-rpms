@@ -2,7 +2,7 @@
 
 Name:           gala
 Summary:        Gala window manager
-Version:        0.3.1+git%{date}.%{commit}
+Version:        3.2.0+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -123,6 +123,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 08 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200107.175830.548ec08d-1
+- Update to version 3.2.0.
+
 * Tue Jan 07 2020 Fabio Valentini <decathorpe@gmail.com> - 0.3.1+git200107.175830.548ec08d-1
 - Update to latest snapshot.
 

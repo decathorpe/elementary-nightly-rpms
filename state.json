@@ -293,9 +293,9 @@
             "git_last_date": "200107.175830",
             "name": "gala",
             "package_name": "gala",
-            "package_version": "0.3.1",
+            "package_version": "3.2.0",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "0.3.1+git%{date}.%{commit}"
+            "rpm_last_version": "3.2.0+git%{date}.%{commit}"
         },
         "95": {
             "git_branch": "master",
