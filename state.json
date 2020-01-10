@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4284423c597bc96d338f78c09e58a74d4161dc11",
-            "git_last_date": "200108.000738",
+            "git_last_commit": "67f3b23940ebc21b6a011dce169dbb4af98acb94",
+            "git_last_date": "200110.140741",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "73821d82b50f464de09bb664f80d38c20384e7db",
-            "git_last_date": "191226.014704",
+            "git_last_commit": "3ef54dd1d6ce67106c5dafd71da5a3737c3fe84e",
+            "git_last_date": "200110.140742",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6fa5e44da4e1e9423fd22386c2a4c9592c2f146a",
-            "git_last_date": "200107.185325",
+            "git_last_commit": "ac90956e37dfd2bb96af4deaaa262178abea385f",
+            "git_last_date": "200110.140742",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.3.0",
