@@ -1,10 +1,10 @@
-diff --git a/data/org.pantheon.desktop.gala.gschema.xml.in b/data/org.pantheon.desktop.gala.gschema.xml.in
-index eba5b25..e47967e 100644
---- a/data/org.pantheon.desktop.gala.gschema.xml.in
-+++ b/data/org.pantheon.desktop.gala.gschema.xml.in
+diff --git a/data/gala.gschema.xml b/data/gala.gschema.xml
+index 4444667..e44a037 100644
+--- a/data/gala.gschema.xml
++++ b/data/gala.gschema.xml
 @@ -18,7 +18,7 @@
  	
- 	<schema path="/org/pantheon/desktop/gala/behavior/" id="org.pantheon.desktop.gala.behavior" gettext-domain="@GETTEXT_PACKAGE@">
+ 	<schema path="/org/pantheon/desktop/gala/behavior/" id="org.pantheon.desktop.gala.behavior">
  		<key enum="GalaActionType" name="hotcorner-topleft">
 -			<default>'none'</default>
 +			<default>'open-launcher'</default>
@@ -25,16 +25,16 @@ index eba5b25..e47967e 100644
  		</key>
  		<key type="s" name="overlay-action">
 -			<default>''</default>
-+			<default>'io.elementary.shortcut-overlay'</default>
++			<default>'wingpanel --toggle-indicator=app-launcher'</default>
  			<summary></summary>
  			<description></description>
  		</key>
-@@ -156,7 +156,7 @@
+@@ -161,7 +161,7 @@
  			<description>When true, instead of having independent titlebars, modal dialogs appear attached to the titlebar of the parent window and are moved together with the parent window.</description>
  		</key>
  		<key type="s" name="button-layout">
 -			<default>'close:maximize'</default>
-+			<default>'appmenu:close'</default>
++			<default>'close:menu,maximize'</default>
  			<summary>Arrangement of buttons on the titlebar</summary>
  			<description>Arrangement of buttons on the titlebar. The value should be a string, such as "menu:minimize,maximize,spacer,close"; the colon separates the left corner of the window from the right corner, and the button names are comma-separated. Duplicate buttons are not allowed. Unknown button names are silently ignored so that buttons can be added in future metacity versions without breaking older versions. A special spacer tag can be used to insert some space between two adjacent buttons.</description>
  		</key>
