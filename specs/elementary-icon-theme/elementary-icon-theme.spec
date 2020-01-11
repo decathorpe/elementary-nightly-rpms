@@ -17,6 +17,8 @@ BuildRequires:  gettext
 BuildRequires:  inkscape
 BuildRequires:  libappstream-glib
 BuildRequires:  meson
+# /usr/bin/xcursorgen
+BuildRequires:  xorg-x11-apps
 
 
 %description
