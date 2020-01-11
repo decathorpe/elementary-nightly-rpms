@@ -278,8 +278,8 @@
         "89": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "34501ca997fe233fb953f418d2377dbecee76f91",
-            "git_last_date": "200106.210737",
+            "git_last_commit": "bceaa643af0d8eaef0546ffc24d8a79edc87a70d",
+            "git_last_date": "200111.120744",
             "name": "switchboard",
             "package_name": "switchboard",
             "package_version": "2.3.7",
