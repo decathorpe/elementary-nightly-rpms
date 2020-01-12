@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "86b386898637aa357dbb93da907abc2fe13ff014",
-            "git_last_date": "200111.000927",
+            "git_last_commit": "9ed1890f1a9df5b4ce14176ce3b32b0fd8b85e63",
+            "git_last_date": "200112.151109",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.0",
@@ -487,8 +487,8 @@
         "121": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "419132ae2d24933456c79cf00251d3f38f0a6f4d",
-            "git_last_date": "200110.195956",
+            "git_last_commit": "a7ea29686d610d8e5788a0cf50ccdb52864614b4",
+            "git_last_date": "200112.150752",
             "name": "elementary-code",
             "package_name": "elementary-code",
             "package_version": "3.2.0",
@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c89ca76f07cb68b2a5a8ffc862b2ceffe5fc6f41",
-            "git_last_date": "200105.141802",
+            "git_last_commit": "b10d6e4c93016fabebf2fae5e682452e681d547a",
+            "git_last_date": "200112.150748",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",
