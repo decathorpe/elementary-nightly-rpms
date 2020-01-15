@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9ed1890f1a9df5b4ce14176ce3b32b0fd8b85e63",
-            "git_last_date": "200112.151109",
+            "git_last_commit": "76cdf49cc3ce24d1f16e3dec43bfce2373a668a8",
+            "git_last_date": "200115.210751",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.0",
@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b10d6e4c93016fabebf2fae5e682452e681d547a",
-            "git_last_date": "200112.150748",
+            "git_last_commit": "b8d52bf198aa48f2a200745fed9f4f0223cabc1d",
+            "git_last_date": "200115.215753",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c20cb8b6568388c6f2c25e2848209fb696b6b3f7",
-            "git_last_date": "200114.180748",
+            "git_last_commit": "35ecd33e32080b0dc3e0171904b14c4f0a2c1256",
+            "git_last_date": "200115.210750",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.7.0",
