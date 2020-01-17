@@ -3,7 +3,7 @@
 
 Name:           elementary-terminal
 Summary:        The terminal of the 21st century
-Version:        5.5.0+git%{date}.%{commit}
+Version:        5.5.1+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        LGPLv3
 
@@ -97,6 +97,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Jan 17 2020 Fabio Valentini <decathorpe@gmail.com> - 5.5.1+git200115.210751.76cdf49c-1
+- Update to version 5.5.1.
+
 * Wed Jan 15 2020 Fabio Valentini <decathorpe@gmail.com> - 5.5.0+git200115.210751.76cdf49c-1
 - Update to latest snapshot.
 
