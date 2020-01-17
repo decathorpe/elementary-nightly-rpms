@@ -91,8 +91,8 @@
         "69": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "69a6413b81466cad9e61ccbd6d463a6a30dbb32f",
-            "git_last_date": "200106.210738",
+            "git_last_commit": "042ae8f78d8db9e409b374ebefafb38bd4c64967",
+            "git_last_date": "200117.220753",
             "name": "switchboard-plug-display",
             "package_name": "switchboard-plug-display",
             "package_version": "2.2.0",
@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c5271b9166ba7d928830c0f4c18232cf4e6eb850",
-            "git_last_date": "200115.120749",
+            "git_last_commit": "90c9e2dd6bdfad1689baef125a46b6f25158df90",
+            "git_last_date": "200117.224135",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -234,8 +234,8 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "237043fe2768178f7655125fc7975b6fc5e5f9e9",
-            "git_last_date": "200115.172258",
+            "git_last_commit": "9c8b141887a350c747b8b9cdcdf9155dd4246f61",
+            "git_last_date": "200117.223639",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.6",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6038ec3503eb9ae83d4ca2c992f964d08b7e464b",
-            "git_last_date": "200115.175932",
+            "git_last_commit": "074c150913984c0728911a492d274280ba673810",
+            "git_last_date": "200117.220753",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.3.0",
