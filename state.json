@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "fbc6612046c4ea91e04bbf9df47110d073418bdb",
-            "git_last_date": "200108.000745",
+            "git_last_commit": "27ac182602e073838af209ce65b80bada315654d",
+            "git_last_date": "200118.010801",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.3",
@@ -553,8 +553,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "830a4245bedfc893cb4b8b06e717f23abf1780fc",
-            "git_last_date": "200108.000744",
+            "git_last_commit": "d0f5a897c7851b99b260b96e67f71045281e355a",
+            "git_last_date": "200118.010801",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "73de7e343a53de14316693830941aafa20dcb93d",
-            "git_last_date": "200108.000738",
+            "git_last_commit": "f7ef9ec0e48028ddb297fdfad69bfc9011673026",
+            "git_last_date": "200118.010754",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
@@ -643,8 +643,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "79387e13ae6dec7877b08e4d00a98532a914cb5c",
-            "git_last_date": "200108.000743",
+            "git_last_commit": "41d71aa3000f5070a47b96347e75018bfc0fcd4b",
+            "git_last_date": "200118.010800",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.0",
