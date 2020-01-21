@@ -190,8 +190,8 @@
         "81": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7aba6119509f73f3064eb945bb2a3b52d8406acc",
-            "git_last_date": "200106.190741",
+            "git_last_commit": "58881b24435db7ea628ece1daa07e0c3266d6f31",
+            "git_last_date": "200121.082705",
             "name": "switchboard-plug-notifications",
             "package_name": "switchboard-plug-notifications",
             "package_version": "2.1.5",
