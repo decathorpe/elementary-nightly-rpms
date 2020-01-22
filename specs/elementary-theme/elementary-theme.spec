@@ -4,7 +4,7 @@
 
 Name:           elementary-theme
 Summary:        elementary GTK+ Stylesheet
-Version:        5.3.0+git%{date}.%{commit}
+Version:        5.4.1+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3
 
@@ -106,6 +106,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 5.4.1+git200121.184335.b52beeff-1
+- Update to version 5.4.1.
+
 * Tue Jan 21 2020 Fabio Valentini <decathorpe@gmail.com> - 5.3.0+git200121.184335.b52beeff-1
 - Update to latest snapshot.
 
