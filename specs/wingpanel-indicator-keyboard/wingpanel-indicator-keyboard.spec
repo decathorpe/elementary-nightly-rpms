@@ -5,7 +5,7 @@
 Name:           wingpanel-indicator-keyboard
 Summary:        Keyboard Indicator for wingpanel
 Version:        2.2.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        LGPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -22,6 +22,7 @@ BuildRequires:  pkgconfig(granite)
 BuildRequires:  pkgconfig(gtk+-3.0)
 BuildRequires:  pkgconfig(libxml-2.0)
 BuildRequires:  pkgconfig(wingpanel-2.0)
+BuildRequires:  pkgconfig(xkeyboard-config)
 
 Requires:       wingpanel%{?_isa}
 Supplements:    wingpanel%{?_isa}
@@ -61,6 +62,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.0+git200122.101929.94e84522-2
+- Add missing BR: pkgconfig(xkeyboard-config).
+
 * Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.0+git200122.101929.94e84522-1
 - Update to latest snapshot.
 

@@ -107,7 +107,7 @@
             "name": "wingpanel-indicator-keyboard",
             "package_name": "wingpanel-indicator-keyboard",
             "package_version": "2.2.0",
-            "rpm_last_release": "1%{?dist}",
+            "rpm_last_release": "2%{?dist}",
             "rpm_last_version": "2.2.0+git%{date}.%{commit}"
         },
         "72": {
