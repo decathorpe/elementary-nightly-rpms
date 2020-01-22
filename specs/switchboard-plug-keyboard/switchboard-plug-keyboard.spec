@@ -8,7 +8,7 @@
 Name:           switchboard-plug-keyboard
 Summary:        Switchboard Keyboard plug
 Version:        2.3.5+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -26,6 +26,7 @@ BuildRequires:  pkgconfig(libgnomekbd)
 BuildRequires:  pkgconfig(libgnomekbdui)
 BuildRequires:  pkgconfig(libxml-2.0)
 BuildRequires:  pkgconfig(switchboard-2.0)
+BuildRequires:  pkgconfig(xkeyboard-config)
 
 Requires:       switchboard%{?_isa}
 Supplements:    switchboard%{?_isa}
@@ -68,6 +69,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.5+git200122.101952.b2c1f6bf-2
+- Add missing BR: xkeyboard-config.pc.
+
 * Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.5+git200122.101952.b2c1f6bf-1
 - Update to latest snapshot.
 
