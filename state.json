@@ -502,9 +502,9 @@
             "git_last_date": "200121.190721",
             "name": "elementary-screenshot-tool",
             "package_name": "elementary-screenshot-tool",
-            "package_version": "1.7.0",
+            "package_version": "1.7.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "1.7.0+git%{date}.%{commit}"
+            "rpm_last_version": "1.7.1+git%{date}.%{commit}"
         },
         "123": {
             "git_branch": "master",

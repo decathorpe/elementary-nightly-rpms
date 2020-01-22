@@ -3,7 +3,7 @@
 
 Name:           elementary-screenshot-tool
 Summary:        Screenshot tool designed for elementary
-Version:        1.7.0+git%{date}.%{commit}
+Version:        1.7.1+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        LGPLv3
 
@@ -68,6 +68,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 1.7.1+git200121.190721.b9050aee-1
+- Update to version 1.7.1.
+
 * Tue Jan 21 2020 Fabio Valentini <decathorpe@gmail.com> - 1.7.0+git200121.190721.b9050aee-1
 - Update to latest snapshot.
 
