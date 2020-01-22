@@ -6,7 +6,7 @@
 Name:           elementary-files
 Summary:        File manager from elementary
 Version:        4.3.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -96,7 +96,6 @@ appstream-util validate-relax --nonet \
 %{_datadir}/dbus-1/services/%{appname}.service
 %{_datadir}/dbus-1/services/%{appname}.Filemanager1.service
 %{_datadir}/glib-2.0/schemas/%{appname}.gschema.xml
-%{_datadir}/%{appname}/
 %{_datadir}/metainfo/%{appname}.appdata.xml
 %{_datadir}/pixmaps/%{appname}/
 %{_datadir}/polkit-1/actions/%{appname}.policy
@@ -117,6 +116,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 4.3.0+git200122.214224.373b92ab-2
+- Adapt to moved files.
+
 * Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 4.3.0+git200122.214224.373b92ab-1
 - Update to latest snapshot.
 
