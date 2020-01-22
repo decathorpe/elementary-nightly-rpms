@@ -223,8 +223,8 @@
         "84": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c2a4197c21eb425a2a01dca1008797b075f44fc7",
-            "git_last_date": "200103.220731",
+            "git_last_commit": "da03fa2d19fd871102b9c544a328a9d38e6fe32d",
+            "git_last_date": "200122.175340",
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.2.6",
@@ -289,8 +289,8 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "345779817fe599c1366d10b2d62073d7d4f671b0",
-            "git_last_date": "200120.200814",
+            "git_last_commit": "c43e2d0bcd62b427e2f4d9d16acb51b4b69ac75e",
+            "git_last_date": "200122.173358",
             "name": "gala",
             "package_name": "gala",
             "package_version": "3.2.0",
@@ -586,8 +586,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "f7ef9ec0e48028ddb297fdfad69bfc9011673026",
-            "git_last_date": "200118.010754",
+            "git_last_commit": "657ba9cdac18c21618b38d66d7e858a6adf9adc5",
+            "git_last_date": "200122.170242",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
