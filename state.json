@@ -14,8 +14,8 @@
         "10": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b52beeff23fb9fe33a674bf30222d861c0f75fc9",
-            "git_last_date": "200121.184335",
+            "git_last_commit": "e84680b7e68210c73d99f4f1086b79736c470343",
+            "git_last_date": "200123.160746",
             "name": "elementary-theme",
             "package_name": "elementary-theme",
             "package_version": "5.4.1",
@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "fb49f790d9298898f11d4b63623f77259d7ee1fe",
-            "git_last_date": "200123.035704",
+            "git_last_commit": "934f33992643db272e975a51d508d83f8bef43dc",
+            "git_last_date": "200123.163354",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.1",
