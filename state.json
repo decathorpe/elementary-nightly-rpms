@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3ef54dd1d6ce67106c5dafd71da5a3737c3fe84e",
-            "git_last_date": "200110.140742",
+            "git_last_commit": "88265e220525a465c77d826a2553d364a440c331",
+            "git_last_date": "200124.210805",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -421,8 +421,8 @@
         "115": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "45d877167c1b85a302cbb52aa7c39982a35198ae",
-            "git_last_date": "200121.160801",
+            "git_last_commit": "4e58735233f6b83310dea677a7249a32fdfe0bb6",
+            "git_last_date": "200124.210806",
             "name": "switchboard-plug-bluetooth",
             "package_name": "switchboard-plug-bluetooth",
             "package_version": "2.3.0",
