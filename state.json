@@ -278,8 +278,8 @@
         "89": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "1302c7520261d42fd2202797f888da438228b9d8",
-            "git_last_date": "200121.160805",
+            "git_last_commit": "5c7e6a09b1bac3dc649a7e2181283a3065aaae88",
+            "git_last_date": "200124.020804",
             "name": "switchboard",
             "package_name": "switchboard",
             "package_version": "2.3.8",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5d99d16b4c40c6beb47afed33e038eda19e1daf9",
-            "git_last_date": "200121.160759",
+            "git_last_commit": "c4153a7ccd3ea5ef7f0e3da292d248ea872063ce",
+            "git_last_date": "200124.020802",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
