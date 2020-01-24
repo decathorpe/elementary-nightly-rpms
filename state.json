@@ -69,8 +69,8 @@
         "67": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "22bd2b728c5852613a7ab005e6da0be373d7f6bb",
-            "git_last_date": "200121.160800",
+            "git_last_commit": "996d5967b646f2b619d7e6d3bfef1af0417fc8d6",
+            "git_last_date": "200124.010803",
             "name": "switchboard-plug-datetime",
             "package_name": "switchboard-plug-datetime",
             "package_version": "2.1.5",
@@ -333,12 +333,12 @@
         "98": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b2c1f6bfd7ee7b2b8d28c7531c3a5c1e52db6b78",
-            "git_last_date": "200122.101952",
+            "git_last_commit": "b454d13a67bb13169e514b3cce03641b5dcb63fc",
+            "git_last_date": "200124.010805",
             "name": "switchboard-plug-keyboard",
             "package_name": "switchboard-plug-keyboard",
             "package_version": "2.3.5",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.3.5+git%{date}.%{commit}"
         },
         "99": {
@@ -465,8 +465,8 @@
         "119": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "cfa61bd77e887da7de95369417769ff7c8f996cf",
-            "git_last_date": "200122.160801",
+            "git_last_commit": "67927eab0f4e1d3f4ead648396f1a637e327f372",
+            "git_last_date": "200124.010803",
             "name": "elementary-photos",
             "package_name": "elementary-photos",
             "package_version": "2.6.5",
@@ -520,8 +520,8 @@
         "124": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "40134b152cffcba2041f09dfd0be315648556876",
-            "git_last_date": "200121.160800",
+            "git_last_commit": "82436cdd533034af333af94108f700941b54dd03",
+            "git_last_date": "200124.010804",
             "name": "elementary-music",
             "package_name": "elementary-music",
             "package_version": "5.0.4",

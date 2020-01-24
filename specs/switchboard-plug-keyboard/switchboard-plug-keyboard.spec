@@ -8,7 +8,7 @@
 Name:           switchboard-plug-keyboard
 Summary:        Switchboard Keyboard plug
 Version:        2.3.5+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -69,6 +69,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Jan 24 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.5+git200124.010805.b454d13a-1
+- Update to latest snapshot.
+
 * Wed Jan 22 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.5+git200122.101952.b2c1f6bf-2
 - Add missing BR: xkeyboard-config.pc.
 
