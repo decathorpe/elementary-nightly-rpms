@@ -1,5 +1,5 @@
 diff --git a/data/gala.gschema.xml b/data/gala.gschema.xml
-index 4444667..e44a037 100644
+index 8032583..e40daed 100644
 --- a/data/gala.gschema.xml
 +++ b/data/gala.gschema.xml
 @@ -18,7 +18,7 @@
@@ -11,8 +11,8 @@ index 4444667..e44a037 100644
  			<summary>Action for the top left corner</summary>
  			<description></description>
  		</key>
-@@ -58,7 +58,7 @@
- 			<description>If enabled, dropping windows on vertical screen edges maximizes them vertically and resizes them horizontally to cover half of the available area. Dropping windows on the top screen edge maximizes them completely.</description>
+@@ -63,7 +63,7 @@
+ 			<description>If new notifications UI should be used, requires io.elemenetary.notifications to be present and running</description>
  		</key>
  		<key type="s" name="panel-main-menu-action">
 -			<default>''</default>
@@ -20,7 +20,7 @@ index 4444667..e44a037 100644
  			<summary>Panel main menu action</summary>
  			<description>Sets the command to run when the panel-main-menu keybinding is pressed.</description>
  		</key>
-@@ -68,7 +68,7 @@
+@@ -73,7 +73,7 @@
  			<description></description>
  		</key>
  		<key type="s" name="overlay-action">
@@ -29,7 +29,7 @@ index 4444667..e44a037 100644
  			<summary></summary>
  			<description></description>
  		</key>
-@@ -161,7 +161,7 @@
+@@ -166,7 +166,7 @@
  			<description>When true, instead of having independent titlebars, modal dialogs appear attached to the titlebar of the parent window and are moved together with the parent window.</description>
  		</key>
  		<key type="s" name="button-layout">

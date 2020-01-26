@@ -1,5 +1,5 @@
-sources/*
-packages/*
+/sources/*/
+/sources/*.tar.gz
+/packages/*
 
-*.old
-*.tar.gz
+/specs/*/*.old

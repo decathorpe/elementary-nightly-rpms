@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        3.2.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -123,6 +123,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sun Jan 26 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200125.150805.d17ed457-2
+- Rebase downstream default settings patch.
+
 * Sat Jan 25 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200125.150805.d17ed457-1
 - Update to latest snapshot.
 
