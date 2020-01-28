@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "0a50d17949c07db8568ccf9b563fab219adc5125",
-            "git_last_date": "200127.075251",
+            "git_last_commit": "a1efdc648a01db5dc06ed73dca8eb6a7e87cd44d",
+            "git_last_date": "200128.171846",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.3",
@@ -300,8 +300,8 @@
         "95": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5f9bfe23db997eb6eb61c65c53762a49587052ea",
-            "git_last_date": "200112.040743",
+            "git_last_commit": "22e188e578d033545142f6b0de85851b68ac1927",
+            "git_last_date": "200128.172448",
             "name": "wingpanel-indicator-network",
             "package_name": "wingpanel-indicator-network",
             "package_version": "2.2.2",
@@ -454,8 +454,8 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "2c39bd96d8ef368d48ab7a36947e569acc3c9f01",
-            "git_last_date": "200128.110810",
+            "git_last_commit": "078c452e7be9c5cc734e12b525ffd730446ef580",
+            "git_last_date": "200128.173507",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.3.0",
