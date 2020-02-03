@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "9b859c85a1155883b7d4808374f35e94e0894a36",
-            "git_last_date": "200201.130819",
+            "git_last_commit": "fd61c70c376dfb4b9dfed2d6a98c106cabba5d0b",
+            "git_last_date": "200203.080820",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.1",
@@ -531,8 +531,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ddd0d0de2d4ed2b4a2ce1f7ba9ca8526bbae016b",
-            "git_last_date": "200201.020816",
+            "git_last_commit": "baadbe08e5f2cbb101a1eeec401a50965919c222",
+            "git_last_date": "200203.080821",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.7.0",
