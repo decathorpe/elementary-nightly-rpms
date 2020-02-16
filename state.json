@@ -289,8 +289,8 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "036d1484805ea5cbfed6a3452aad3abc389b074a",
-            "git_last_date": "200206.200825",
+            "git_last_commit": "2b2050991a75280b87b395778015a560957a2733",
+            "git_last_date": "200216.053230",
             "name": "gala",
             "package_name": "gala",
             "package_version": "3.2.0",
@@ -553,8 +553,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d0f5a897c7851b99b260b96e67f71045281e355a",
-            "git_last_date": "200118.010801",
+            "git_last_commit": "1ecc082bc93910c4099d86fc104e5cbcbde1d9dc",
+            "git_last_date": "200216.053231",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
