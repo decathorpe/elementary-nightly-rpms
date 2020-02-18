@@ -8,7 +8,7 @@
 Name:           elementary-files
 Summary:        File manager from elementary
 Version:        4.4.0+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -118,6 +118,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Tue Feb 18 2020 Fabio Valentini <decathorpe@gmail.com> - 4.4.0+git200218.194019.ef190792-1
+- Update to latest snapshot.
+
 * Mon Feb 17 2020 Fabio Valentini <decathorpe@gmail.com> - 4.4.0+git200214.170840.7e329b13-2
 - Add workaround for -fno-common compilation issue on f32+.
 

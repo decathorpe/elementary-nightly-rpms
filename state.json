@@ -454,12 +454,12 @@
         "118": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7e329b13543b31c966e706f75a1bf6d3777e8129",
-            "git_last_date": "200214.170840",
+            "git_last_commit": "ef1907925740e6a9cea6691ae7a95deeba0f5a65",
+            "git_last_date": "200218.194019",
             "name": "elementary-files",
             "package_name": "elementary-files",
             "package_version": "4.4.0",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "4.4.0+git%{date}.%{commit}"
         },
         "119": {
@@ -487,8 +487,8 @@
         "121": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3e5695d5595de72ac249de086915d01c46e764cd",
-            "git_last_date": "200215.200845",
+            "git_last_commit": "01a8f1a1334816e4e11afc98aa7872d9917ae06a",
+            "git_last_date": "200218.190847",
             "name": "elementary-code",
             "package_name": "elementary-code",
             "package_version": "3.2.0",
