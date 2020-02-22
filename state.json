@@ -58,8 +58,8 @@
         "66": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "aba0018efb43d5210d382aa561dc9ab5e5b4516d",
-            "git_last_date": "200201.020816",
+            "git_last_commit": "77553ccb3f643774d653b2db77efca62dcf63858",
+            "git_last_date": "200222.190853",
             "name": "wingpanel-indicator-sound",
             "package_name": "wingpanel-indicator-sound",
             "package_version": "2.1.4",
@@ -80,8 +80,8 @@
         "68": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ecc7d34dafbaefdab6000dfdd3d3529b8f4b2dbf",
-            "git_last_date": "200103.220732",
+            "git_last_commit": "d41adc517e245c65dd4fd65c44ca2d2fc7601d08",
+            "git_last_date": "200222.190853",
             "name": "wingpanel-indicator-power",
             "package_name": "wingpanel-indicator-power",
             "package_version": "2.1.4",
@@ -234,8 +234,8 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6ed27a09905d1ee2fd0ff01fc37e77075b5484ce",
-            "git_last_date": "200218.160823",
+            "git_last_commit": "61aaf35a1a08fc52b602f2818ecb0a33a6ccfdf8",
+            "git_last_date": "200222.190854",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.7",
