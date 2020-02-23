@@ -476,8 +476,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b99197fe6ee82ac3828b6d4efcbe20297303234e",
-            "git_last_date": "200222.122137",
+            "git_last_commit": "60d09c2de97e326fbb303b7a00f93685f1229301",
+            "git_last_date": "200223.130856",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.1",
@@ -498,8 +498,8 @@
         "122": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "cbf3e3b83664798554314fcfcaed0a96929798e4",
-            "git_last_date": "200222.123721",
+            "git_last_commit": "76415db778b2a366f2e34495732bfa4b98d7d7f7",
+            "git_last_date": "200223.130855",
             "name": "elementary-screenshot-tool",
             "package_name": "elementary-screenshot-tool",
             "package_version": "1.7.1",
