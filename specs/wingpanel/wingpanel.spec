@@ -7,7 +7,7 @@ launcher.}
 Name:           wingpanel
 Summary:        Stylish top panel
 Version:        2.2.6+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        3%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -70,6 +70,9 @@ mkdir -p %{buildroot}/%{_sysconfdir}/wingpanel.d
 
 %check
 desktop-file-validate \
+    %{buildroot}/%{_sysconfdir}/xdg/autostart/%{appname}.desktop
+
+desktop-file-validate \
     %{buildroot}/%{_datadir}/applications/%{appname}.desktop
 
 appstream-util validate-relax --nonet \
@@ -79,6 +82,8 @@ appstream-util validate-relax --nonet \
 %files -f wingpanel.lang
 %license COPYING
 %doc README.md
+
+%config(noreplace) %{_sysconfdir}/xdg/autostart/%{appname}.desktop
 
 %{_bindir}/wingpanel
 
@@ -115,6 +120,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sun Feb 23 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200220.125342.7a17fb14-3
+- Adapt packaging for new autostart .desktop file.
+
 * Sun Feb 23 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200220.125342.7a17fb14-2
 - Switch back to mutter 3.28.
 
