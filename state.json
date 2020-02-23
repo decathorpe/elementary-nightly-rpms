@@ -388,8 +388,8 @@
         "105": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "88265e220525a465c77d826a2553d364a440c331",
-            "git_last_date": "200124.210805",
+            "git_last_commit": "10b1aee7ee0c6c05a6c30094bdea1de810b126ca",
+            "git_last_date": "200223.090853",
             "name": "elementary-camera",
             "package_name": "elementary-camera",
             "package_version": "1.0.5",
@@ -564,8 +564,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3edf9ea1a94000e53bda91b73768595e42591bc6",
-            "git_last_date": "200205.225927",
+            "git_last_commit": "868344dee8b6de9ea5ea275eb24ce54d14235652",
+            "git_last_date": "200223.090855",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
