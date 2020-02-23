@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        3.2.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -20,7 +20,7 @@ BuildRequires:  vala
 
 BuildRequires:  gettext-devel
 BuildRequires:  mesa-libEGL-devel
-BuildRequires:  mutter-devel
+BuildRequires:  mutter328-devel
 
 BuildRequires:  pkgconfig(clutter-1.0) >= 1.12.0
 BuildRequires:  pkgconfig(clutter-gtk-1.0)
@@ -123,6 +123,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sun Feb 23 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200222.140851.62e428a8-2
+- Switch back to mutter 3.28.
+
 * Sat Feb 22 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200222.140851.62e428a8-1
 - Update to latest snapshot.
 
