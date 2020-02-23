@@ -4,7 +4,7 @@
 Name:           elementary-greeter
 Summary:        LightDM Login Screen for the elementary desktop
 Version:        5.0.1+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -18,7 +18,7 @@ BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala
 
-BuildRequires:  mutter-devel
+BuildRequires:  mutter328-devel
 
 BuildRequires:  pkgconfig(accountsservice)
 BuildRequires:  pkgconfig(clutter-gtk-1.0)
@@ -110,6 +110,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sun Feb 23 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.1+git200222.140852.d84ed9c2-2
+- Switch back to mutter 3.28.
+
 * Sat Feb 22 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.1+git200222.140852.d84ed9c2-1
 - Update to latest snapshot.
 
