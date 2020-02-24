@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "27ac182602e073838af209ce65b80bada315654d",
-            "git_last_date": "200118.010801",
+            "git_last_commit": "ca1ca45e47b7795fb73a7090212965ac0cb146ea",
+            "git_last_date": "200224.150855",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.3",
