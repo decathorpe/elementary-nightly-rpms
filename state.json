@@ -476,8 +476,8 @@
         "121": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b18a8032ff3e0885c4d18b9f04d9ec536bd3cc5f",
-            "git_last_date": "200224.200227",
+            "git_last_commit": "681181b9210c14e16c6f49c713a34b38af9f60cb",
+            "git_last_date": "200225.200903",
             "name": "elementary-code",
             "package_name": "elementary-code",
             "package_version": "3.2.0",
@@ -487,8 +487,8 @@
         "122": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "76415db778b2a366f2e34495732bfa4b98d7d7f7",
-            "git_last_date": "200223.130855",
+            "git_last_commit": "a6917b3da1c450abc25e9dfc58d34d829f189e58",
+            "git_last_date": "200225.200857",
             "name": "elementary-screenshot-tool",
             "package_name": "elementary-screenshot-tool",
             "package_version": "1.7.1",
