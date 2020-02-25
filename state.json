@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ca1ca45e47b7795fb73a7090212965ac0cb146ea",
-            "git_last_date": "200224.150855",
+            "git_last_commit": "06684e3cf5583c1f5fd3a4c39908127ce7c2c079",
+            "git_last_date": "200225.220857",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.3",
@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d2610f1fefacd79d145642e501973cb99dc7c0f5",
-            "git_last_date": "200222.140851",
+            "git_last_commit": "464daec42a6370df821e0f17dd6df1ee35881c86",
+            "git_last_date": "200225.220900",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -212,8 +212,8 @@
         "83": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "3ac27189f442e3fd1ea5d61deb20ea97455aad11",
-            "git_last_date": "191228.102837",
+            "git_last_commit": "4f4a62a641819d175fc45524530e3befc418654f",
+            "git_last_date": "200225.220857",
             "name": "pantheon-agent-polkit",
             "package_name": "pantheon-agent-polkit",
             "package_version": "1.0.0",
@@ -542,8 +542,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "1ecc082bc93910c4099d86fc104e5cbcbde1d9dc",
-            "git_last_date": "200216.053231",
+            "git_last_commit": "d385bdf89790a3b1a251f0e629f0bc0e928b9608",
+            "git_last_date": "200225.220858",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
@@ -575,12 +575,12 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d84ed9c22b36aad5d51ed5467b5837a54db24e92",
-            "git_last_date": "200222.140852",
+            "git_last_commit": "a6079093347776e6e1b28c84dbfd6f4808856aba",
+            "git_last_date": "200225.220900",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.1",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "5.0.1+git%{date}.%{commit}"
         },
         "131": {
