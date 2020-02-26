@@ -410,8 +410,8 @@
         "115": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6d1a8cd03fc9e2fbee414ca46c33c7ae124851a9",
-            "git_last_date": "200222.140855",
+            "git_last_commit": "ac7830298d680b44d100155299c58049ace4597a",
+            "git_last_date": "200226.212135",
             "name": "switchboard-plug-bluetooth",
             "package_name": "switchboard-plug-bluetooth",
             "package_version": "2.3.0",
