@@ -636,9 +636,9 @@
             "git_last_date": "200226.064147",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
-            "package_version": "1.0.0",
+            "package_version": "1.0.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "1.0.0+git%{date}.%{commit}"
+            "rpm_last_version": "1.0.1+git%{date}.%{commit}"
         }
     }
 }

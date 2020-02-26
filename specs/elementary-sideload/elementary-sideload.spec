@@ -3,7 +3,7 @@
 
 Name:           elementary-sideload
 Summary:        Sideload flatpaks on Pantheon
-Version:        1.0.0+git%{date}.%{commit}
+Version:        1.0.1+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3+
 
@@ -65,6 +65,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Feb 26 2020 Fabio Valentini <decathorpe@gmail.com> - 1.0.1+git200226.064147.6b9b78c6-1
+- Update to version 1.0.1.
+
 * Wed Feb 26 2020 Fabio Valentini <decathorpe@gmail.com> - 1.0.0+git200226.064147.6b9b78c6-1
 - Update to latest snapshot.
 
