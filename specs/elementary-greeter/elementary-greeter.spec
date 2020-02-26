@@ -3,7 +3,7 @@
 
 Name:           elementary-greeter
 Summary:        LightDM Login Screen for the elementary desktop
-Version:        5.0.1+git%{date}.%{commit}
+Version:        5.0.2+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        GPLv3
 
@@ -110,6 +110,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Wed Feb 26 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.2+git200226.063451.03e55151-1
+- Update to version 5.0.2.
+
 * Wed Feb 26 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.1+git200226.063451.03e55151-1
 - Update to latest snapshot.
 
