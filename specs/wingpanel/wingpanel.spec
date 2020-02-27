@@ -7,7 +7,7 @@ launcher.}
 Name:           wingpanel
 Summary:        Stylish top panel
 Version:        2.2.6+git%{date}.%{commit}
-Release:        3%{?dist}
+Release:        4%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -19,7 +19,11 @@ BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.24.0
 
+%if %{fedora} == 31
+BuildRequires:  mutter-devel
+%else
 BuildRequires:  mutter328-devel
+%endif
 
 BuildRequires:  pkgconfig(gala)
 BuildRequires:  pkgconfig(gee-0.8)
@@ -120,6 +124,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Thu Feb 27 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200220.125342.7a17fb14-4
+- Switch fedora 31 to mutter 3.34.
+
 * Sun Feb 23 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200220.125342.7a17fb14-3
 - Adapt packaging for new autostart .desktop file.
 
