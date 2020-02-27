@@ -414,9 +414,9 @@
             "git_last_date": "200226.212135",
             "name": "switchboard-plug-bluetooth",
             "package_name": "switchboard-plug-bluetooth",
-            "package_version": "2.3.0",
+            "package_version": "2.3.1",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "2.3.0+git%{date}.%{commit}"
+            "rpm_last_version": "2.3.1+git%{date}.%{commit}"
         },
         "116": {
             "git_branch": "master",
