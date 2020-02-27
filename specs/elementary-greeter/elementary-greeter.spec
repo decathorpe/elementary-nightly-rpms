@@ -4,7 +4,7 @@
 Name:           elementary-greeter
 Summary:        LightDM Login Screen for the elementary desktop
 Version:        5.0.2+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        1%{?dist}
 License:        GPLv3
 
 URL:            https://github.com/elementary/%{srcname}
@@ -114,6 +114,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Thu Feb 27 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.2+git200227.212726.a2f90dd6-1
+- Update to latest snapshot.
+
 * Thu Feb 27 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.2+git200226.063451.03e55151-2
 - Switch fedora 31 to mutter 3.34.
 
