@@ -632,8 +632,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6b9b78c635a8d86d9125836cc2c2a3d320905fcf",
-            "git_last_date": "200226.064147",
+            "git_last_commit": "33bf5cd3be988cefa35ecfb6c005c6fcc08ced57",
+            "git_last_date": "200227.150913",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.1",
