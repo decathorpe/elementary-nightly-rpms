@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        3.2.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -88,11 +88,16 @@ This package contains the development headers.
 desktop-file-validate \
     %{buildroot}/%{_datadir}/applications/gala*.desktop
 
+desktop-file-validate \
+    %{buildroot}/%{_sysconfdir}/xdg/autostart/gala-daemon.desktop
+
 appstream-util validate-relax --nonet \
     %{buildroot}/%{_datadir}/metainfo/%{name}.appdata.xml
 
 
 %files -f gala.lang
+%config(noreplace) %{_sysconfdir}/xdg/autostart/gala-daemon.desktop
+
 %{_bindir}/gala
 %{_bindir}/gala-daemon
 
@@ -128,6 +133,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Feb 28 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200227.164226.488f9f5e-2
+- Adapt to new daemon desktop file location.
+
 * Thu Feb 27 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200227.164226.488f9f5e-1
 - Update to latest snapshot.
 
