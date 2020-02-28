@@ -639,6 +639,17 @@
             "package_version": "1.0.1",
             "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "1.0.1+git%{date}.%{commit}"
+        },
+        "137": {
+            "git_branch": "master",
+            "git_commit": "HEAD",
+            "git_last_commit": "676c175be6b37cec2db831a0c38e708d9c5d0c84",
+            "git_last_date": "200225.220857",
+            "name": "elementary-notifications",
+            "package_name": "elementary-notifications",
+            "package_version": "0",
+            "rpm_last_release": "1%{?dist}",
+            "rpm_last_version": "0+git%{date}.%{commit}"
         }
     }
 }
