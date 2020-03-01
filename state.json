@@ -245,8 +245,8 @@
         "86": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a69d6716b8e800b17e942f55936962e4a7116be0",
-            "git_last_date": "200223.000854",
+            "git_last_commit": "8148e7f922daed6dac266ae10b9a51a9b8125047",
+            "git_last_date": "200301.200906",
             "name": "wingpanel-indicator-datetime",
             "package_name": "wingpanel-indicator-datetime",
             "package_version": "2.2.1",
