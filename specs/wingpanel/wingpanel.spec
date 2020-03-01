@@ -7,7 +7,7 @@ launcher.}
 Name:           wingpanel
 Summary:        Stylish top panel
 Version:        2.2.6+git%{date}.%{commit}
-Release:        4%{?dist}
+Release:        1%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -124,6 +124,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sun Mar 01 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200301.150904.9071886a-1
+- Update to latest snapshot.
+
 * Thu Feb 27 2020 Fabio Valentini <decathorpe@gmail.com> - 2.2.6+git200220.125342.7a17fb14-4
 - Switch fedora 31 to mutter 3.34.
 

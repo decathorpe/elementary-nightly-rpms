@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "06684e3cf5583c1f5fd3a4c39908127ce7c2c079",
-            "git_last_date": "200225.220857",
+            "git_last_commit": "87f3c9613ebd4d15af8a38bcd64002840d1529d4",
+            "git_last_date": "200301.150928",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.3",
@@ -47,8 +47,8 @@
         "63": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "2f524673993f753045b91b9db686dcfce5a1ebe1",
-            "git_last_date": "200222.140903",
+            "git_last_commit": "fa0eb87c8e617b80207331348727d542676d8755",
+            "git_last_date": "200301.150931",
             "name": "switchboard-plug-onlineaccounts",
             "package_name": "switchboard-plug-onlineaccounts",
             "package_version": "2.0.1",
@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "464daec42a6370df821e0f17dd6df1ee35881c86",
-            "git_last_date": "200225.220900",
+            "git_last_commit": "a5298726278e4544c763c86b28262ea9ec14f060",
+            "git_last_date": "200301.150907",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -223,12 +223,12 @@
         "84": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7a17fb1411cb11026f2fe955b0af6c06e582e1e3",
-            "git_last_date": "200220.125342",
+            "git_last_commit": "9071886a435ed6c135a137a15f4dd1fbb4afd5d5",
+            "git_last_date": "200301.150904",
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.2.6",
-            "rpm_last_release": "4%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.2.6+git%{date}.%{commit}"
         },
         "85": {
@@ -289,12 +289,12 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "488f9f5ebbc76fee955a16680c40555fc8e67cae",
-            "git_last_date": "200227.164226",
+            "git_last_commit": "0a99220d4399ac32e22bcffe7adaff250179be52",
+            "git_last_date": "200301.150906",
             "name": "gala",
             "package_name": "gala",
             "package_version": "3.2.0",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "3.2.0+git%{date}.%{commit}"
         },
         "95": {
@@ -542,8 +542,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "d385bdf89790a3b1a251f0e629f0bc0e928b9608",
-            "git_last_date": "200225.220858",
+            "git_last_commit": "c39f67912a40044f8115c87f162249b779abbb08",
+            "git_last_date": "200301.150927",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
@@ -575,8 +575,8 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a2f90dd6d2c7e8f983313c3ec3d4a2ad7720a2dd",
-            "git_last_date": "200227.212726",
+            "git_last_commit": "bca1215dc4b4a330be9998a261d577a15285bc95",
+            "git_last_date": "200301.150909",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.2",
@@ -632,8 +632,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "33bf5cd3be988cefa35ecfb6c005c6fcc08ced57",
-            "git_last_date": "200227.150913",
+            "git_last_commit": "b268895dcdb9ae31bbc745a50e0f381a38299ada",
+            "git_last_date": "200301.150928",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.1",
@@ -643,8 +643,8 @@
         "137": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "676c175be6b37cec2db831a0c38e708d9c5d0c84",
-            "git_last_date": "200225.220857",
+            "git_last_commit": "609c650e40d176fd91fc7e4f67158fcb2f0500f5",
+            "git_last_date": "200301.150907",
             "name": "elementary-notifications",
             "package_name": "elementary-notifications",
             "package_version": "0",
