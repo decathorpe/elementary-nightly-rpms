@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e21c5588d9b330b7f240e09e5312d9568d3cac0e",
-            "git_last_date": "200302.230908",
+            "git_last_commit": "9ab7c335d627392f233c7695109765ad6debab84",
+            "git_last_date": "200305.140911",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -300,8 +300,8 @@
         "95": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e37369d5678df0ca2f61b7db91e32bfa6a2d459a",
-            "git_last_date": "200301.140906",
+            "git_last_commit": "9883d4f49c34f53e41bda9a56fe6e8c1dca29fff",
+            "git_last_date": "200305.140913",
             "name": "wingpanel-indicator-network",
             "package_name": "wingpanel-indicator-network",
             "package_version": "2.2.2",
