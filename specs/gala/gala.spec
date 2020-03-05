@@ -133,6 +133,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Thu Mar 05 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200305.201152.4b8b707b-1
+- Update to latest snapshot.
+
 * Sun Mar 01 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200301.150906.0a99220d-1
 - Update to latest snapshot.
 
