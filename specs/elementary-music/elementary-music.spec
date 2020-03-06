@@ -5,7 +5,7 @@
 
 Name:           elementary-music
 Summary:        Music player and library from elementary
-Version:        5.0.4+git%{date}.%{commit}
+Version:        5.0.5+git%{date}.%{commit}
 Release:        1%{?dist}
 License:        LGPLv2+
 
@@ -118,6 +118,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Mar 06 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.5+git200304.225004.ce88ec3e-1
+- Update to version 5.0.5.
+
 * Wed Mar 04 2020 Fabio Valentini <decathorpe@gmail.com> - 5.0.4+git200304.225004.ce88ec3e-1
 - Update to latest snapshot.
 

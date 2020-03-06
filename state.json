@@ -513,9 +513,9 @@
             "git_last_date": "200304.225004",
             "name": "elementary-music",
             "package_name": "elementary-music",
-            "package_version": "5.0.4",
+            "package_version": "5.0.5",
             "rpm_last_release": "1%{?dist}",
-            "rpm_last_version": "5.0.4+git%{date}.%{commit}"
+            "rpm_last_version": "5.0.5+git%{date}.%{commit}"
         },
         "125": {
             "git_branch": "master",
