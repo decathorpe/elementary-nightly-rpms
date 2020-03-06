@@ -643,8 +643,8 @@
         "137": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "6da7a21766bf27b569fcd70eda422de3308ef058",
-            "git_last_date": "200306.182133",
+            "git_last_commit": "23183615dde5b8d0e73478388345de50a172dce6",
+            "git_last_date": "200306.194901",
             "name": "elementary-notifications",
             "package_name": "elementary-notifications",
             "package_version": "0",
