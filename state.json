@@ -234,8 +234,8 @@
         "85": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4da05d388b6e0a31497d3ec80c03c58405177d2c",
-            "git_last_date": "200301.140906",
+            "git_last_commit": "fed901c116ffb545e565ef1d706af3a07ed590eb",
+            "git_last_date": "200311.093524",
             "name": "wingpanel-indicator-session",
             "package_name": "wingpanel-indicator-session",
             "package_version": "2.2.7",
@@ -553,8 +553,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "49ad4423938f19702b9405dbba213e68f2569f02",
-            "git_last_date": "200301.130915",
+            "git_last_commit": "13a92696bd38c04833e1a80eb0897a21cf38dbe8",
+            "git_last_date": "200311.093416",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
@@ -564,8 +564,8 @@
         "129": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "0412067f94b7e4994ac8360727e9e9c03dd429fd",
-            "git_last_date": "200223.140858",
+            "git_last_commit": "29bffe74b5cebdfa4d8a904de75e0fd1b6b89837",
+            "git_last_date": "200311.093454",
             "name": "elementary-mail",
             "package_name": "elementary-mail",
             "package_version": "1.0.8",
