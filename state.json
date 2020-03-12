@@ -289,8 +289,8 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "8ecf128afe2bf10726786b4abb7d93653aa2818d",
-            "git_last_date": "200312.110506",
+            "git_last_commit": "1c829e1a29a3f60dccf6048b60aea8f2f273f8a8",
+            "git_last_date": "200312.135242",
             "name": "gala",
             "package_name": "gala",
             "package_version": "3.2.0",
