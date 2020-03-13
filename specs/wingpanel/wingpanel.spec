@@ -19,6 +19,7 @@ BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.24.0
 
+BuildRequires:  mesa-libEGL-devel
 BuildRequires:  mutter-devel
 
 BuildRequires:  pkgconfig(gala)
