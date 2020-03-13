@@ -47,8 +47,8 @@
         "63": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "bf560400b10eff397f31cd738563341c30c0db4e",
-            "git_last_date": "200312.203235",
+            "git_last_commit": "c0d42a7baf2e6cd7dd134e07e32a0c0f575db88c",
+            "git_last_date": "200312.232630",
             "name": "switchboard-plug-onlineaccounts",
             "package_name": "switchboard-plug-onlineaccounts",
             "package_version": "2.0.1",
@@ -223,8 +223,8 @@
         "84": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "b3e4f96183eb9245d28fdc466616902446b22e60",
-            "git_last_date": "200302.193638",
+            "git_last_commit": "68fe50ec31559029096d4e6676a6d922d89ccebd",
+            "git_last_date": "200312.235846",
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.3.0",
