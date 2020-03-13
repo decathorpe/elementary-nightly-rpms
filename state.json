@@ -223,8 +223,8 @@
         "84": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "68fe50ec31559029096d4e6676a6d922d89ccebd",
-            "git_last_date": "200312.235846",
+            "git_last_commit": "88305e0e526b5257e67b778c236a7a4333c18be8",
+            "git_last_date": "200313.082815",
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.3.0",
@@ -465,8 +465,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "07a5a44e6d661263a92df21999689bc5fc270b76",
-            "git_last_date": "200301.140921",
+            "git_last_commit": "7dd6f93c9cd9e3d44407649a99ab0c3c17670a1a",
+            "git_last_date": "200313.083344",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.1",
