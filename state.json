@@ -580,7 +580,7 @@
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.2",
-            "rpm_last_release": "1%{?dist}",
+            "rpm_last_release": "2%{?dist}",
             "rpm_last_version": "5.0.2+git%{date}.%{commit}"
         },
         "131": {
