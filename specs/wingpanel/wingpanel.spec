@@ -7,7 +7,7 @@ launcher.}
 Name:           wingpanel
 Summary:        Stylish top panel
 Version:        2.3.0+git%{date}.%{commit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 License:        GPLv2+
 
 URL:            https://github.com/elementary/%{name}
@@ -19,11 +19,7 @@ BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala >= 0.24.0
 
-%if %{fedora} == 31
 BuildRequires:  mutter-devel
-%else
-BuildRequires:  mutter328-devel
-%endif
 
 BuildRequires:  pkgconfig(gala)
 BuildRequires:  pkgconfig(gee-0.8)
@@ -124,6 +120,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Mar 13 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.0+git200313.082815.88305e0e-2
+- Switch all wingpanel builds to the latest available mutter version.
+
 * Fri Mar 13 2020 Fabio Valentini <decathorpe@gmail.com> - 2.3.0+git200313.082815.88305e0e-1
 - Update to latest snapshot.
 
