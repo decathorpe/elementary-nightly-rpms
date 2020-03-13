@@ -18,6 +18,7 @@ BuildRequires:  libappstream-glib
 BuildRequires:  meson
 BuildRequires:  vala
 
+BuildRequires:  mesa-libEGL-devel
 BuildRequires:  mutter-devel
 
 BuildRequires:  pkgconfig(accountsservice)
