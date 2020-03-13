@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        3.2.0+git%{date}.%{commit}
-Release:        2%{?dist}
+Release:        3%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -42,6 +42,8 @@ Requires:       hicolor-icon-theme
 # gala's multitasking view is activated via dbus
 Requires:       dbus
 
+# GTK-based notifications use this new notifications server
+Requires:       elementary-notifications
 
 %description
 Gala is Pantheon's Window Manager, part of the elementary project.
@@ -128,6 +130,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Fri Mar 13 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200313.055651.a814cecc-3
+- Switch to GTK based notifications.
+
 * Fri Mar 13 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200313.055651.a814cecc-2
 - Switch all gala builds to the latest available mutter version.
 
