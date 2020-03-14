@@ -3,7 +3,7 @@
 Name:           gala
 Summary:        Gala window manager
 Version:        3.2.0+git%{date}.%{commit}
-Release:        3%{?dist}
+Release:        1%{?dist}
 License:        GPLv3+
 
 URL:            https://github.com/elementary/%{name}
@@ -130,6 +130,9 @@ appstream-util validate-relax --nonet \
 
 
 %changelog
+* Sat Mar 14 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200314.210927.c49189b8-1
+- Update to latest snapshot.
+
 * Fri Mar 13 2020 Fabio Valentini <decathorpe@gmail.com> - 3.2.0+git200313.055651.a814cecc-3
 - Switch to GTK based notifications.
 

@@ -113,8 +113,8 @@
         "72": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "ee19f47009c5e6c3bbd4a1d87083dca6bd126ffc",
-            "git_last_date": "200311.180923",
+            "git_last_commit": "629c8d36d57c50dff4e6868fe231a4fcf99eeb40",
+            "git_last_date": "200314.210927",
             "name": "granite",
             "package_name": "granite",
             "package_version": "5.3.0",
@@ -289,12 +289,12 @@
         "93": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "a814cecc19f6a34c1d88372cb58d2b2d84a5bd3e",
-            "git_last_date": "200313.055651",
+            "git_last_commit": "c49189b8e7dc1edb31873d9c0636380b733dd4dc",
+            "git_last_date": "200314.210927",
             "name": "gala",
             "package_name": "gala",
             "package_version": "3.2.0",
-            "rpm_last_release": "3%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "3.2.0+git%{date}.%{commit}"
         },
         "95": {
@@ -476,8 +476,8 @@
         "121": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "e865676aa4c7c95f66ff3779d4e3fcb08364ebf1",
-            "git_last_date": "200313.200536",
+            "git_last_commit": "7f9809e102362bb7244ea7be2b9ebede7d39317c",
+            "git_last_date": "200314.210932",
             "name": "elementary-code",
             "package_name": "elementary-code",
             "package_version": "3.3.0",
@@ -632,8 +632,8 @@
         "136": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "f47b371b155733723dd606b77c4b340c1b4173fe",
-            "git_last_date": "200311.160922",
+            "git_last_commit": "a49880818bf45ad84042a977899716e5b17eb04e",
+            "git_last_date": "200314.210930",
             "name": "elementary-sideload",
             "package_name": "elementary-sideload",
             "package_version": "1.0.1",
