@@ -36,8 +36,8 @@
         "62": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "87f3c9613ebd4d15af8a38bcd64002840d1529d4",
-            "git_last_date": "200301.150928",
+            "git_last_commit": "fe53adaf0e142566cf3cd38db5bad19ab1a0494b",
+            "git_last_date": "200314.130931",
             "name": "pantheon-agent-geoclue2",
             "package_name": "pantheon-agent-geoclue2",
             "package_version": "1.0.3",
@@ -542,8 +542,8 @@
         "127": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c39f67912a40044f8115c87f162249b779abbb08",
-            "git_last_date": "200301.150927",
+            "git_last_commit": "5399475428b3bee33f6a0be264b574b34d3553b8",
+            "git_last_date": "200314.130930",
             "name": "elementary-capnet-assist",
             "package_name": "elementary-capnet-assist",
             "package_version": "2.2.4",
@@ -575,12 +575,12 @@
         "130": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "99a7e8388ea8498d2f83e7327267482746bb20e1",
-            "git_last_date": "200313.001735",
+            "git_last_commit": "39a7f088444bad52a4c9c7627dcb038a3b16664a",
+            "git_last_date": "200314.130926",
             "name": "elementary-greeter",
             "package_name": "elementary-greeter",
             "package_version": "5.0.2",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "5.0.2+git%{date}.%{commit}"
         },
         "131": {
