@@ -102,8 +102,8 @@
         "70": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "485a8ef7b889deb8d8776150e8ec772a46728d3b",
-            "git_last_date": "200301.140906",
+            "git_last_commit": "c04d21639b0e08c211d91afef5cf4c8251400680",
+            "git_last_date": "200319.174058",
             "name": "wingpanel-indicator-keyboard",
             "package_name": "wingpanel-indicator-keyboard",
             "package_version": "2.2.0",
@@ -432,8 +432,8 @@
         "117": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "65fe7162473cbb2adb820d0512c217db02a2073d",
-            "git_last_date": "200311.180930",
+            "git_last_commit": "01a31eabd0947f3a31917433876de4c457b9f5d5",
+            "git_last_date": "200319.170936",
             "name": "elementary-calculator",
             "package_name": "elementary-calculator",
             "package_version": "1.5.4",
@@ -531,8 +531,8 @@
         "126": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "14820ba05fa9ba734f615c156fd349d843c9a686",
-            "git_last_date": "200313.185717",
+            "git_last_commit": "4c00ee5b781b26bbac2bff20200778a804f3dfd9",
+            "git_last_date": "200319.170936",
             "name": "elementary-calendar",
             "package_name": "elementary-calendar",
             "package_version": "5.0.3",
