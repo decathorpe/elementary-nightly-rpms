@@ -58,8 +58,8 @@
         "66": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "bac092f21f250e0d73580ef929a721f8daffab1b",
-            "git_last_date": "200303.135322",
+            "git_last_commit": "697aa5694669a19d8fcb570c2b69ff46cb4cfaf0",
+            "git_last_date": "200319.200935",
             "name": "wingpanel-indicator-sound",
             "package_name": "wingpanel-indicator-sound",
             "package_version": "2.1.4",
@@ -157,8 +157,8 @@
         "78": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "73014302f0f4594f5436fad22c8ff10ed84a0188",
-            "git_last_date": "200301.140904",
+            "git_last_commit": "dce2bc0684873d7523b598e27caeca70867b25b4",
+            "git_last_date": "200319.200934",
             "name": "wingpanel-indicator-notifications",
             "package_name": "wingpanel-indicator-notifications",
             "package_version": "2.1.3",
@@ -179,8 +179,8 @@
         "80": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "5d0b5de8723c2d43d580b2d8b3ee35d1a60a7e1b",
-            "git_last_date": "200301.130908",
+            "git_last_commit": "2b28146881a261668d3262108c6a365f9b1bf897",
+            "git_last_date": "200319.200935",
             "name": "wingpanel-indicator-bluetooth",
             "package_name": "wingpanel-indicator-bluetooth",
             "package_version": "2.1.4",
@@ -223,12 +223,12 @@
         "84": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "88305e0e526b5257e67b778c236a7a4333c18be8",
-            "git_last_date": "200313.082815",
+            "git_last_commit": "bb6126f79eb29653fe13cc89eb7e783b3255680b",
+            "git_last_date": "200319.200934",
             "name": "wingpanel",
             "package_name": "wingpanel",
             "package_version": "2.3.0",
-            "rpm_last_release": "2%{?dist}",
+            "rpm_last_release": "1%{?dist}",
             "rpm_last_version": "2.3.0+git%{date}.%{commit}"
         },
         "85": {
@@ -465,8 +465,8 @@
         "120": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "7dd6f93c9cd9e3d44407649a99ab0c3c17670a1a",
-            "git_last_date": "200313.083344",
+            "git_last_commit": "51e663545baf0ad7cda78d012abfc593b49bb7e5",
+            "git_last_date": "200319.200941",
             "name": "elementary-terminal",
             "package_name": "elementary-terminal",
             "package_version": "5.5.1",
@@ -520,8 +520,8 @@
         "125": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "c6852f795a3ead9a06a4e64d79807c6189fb6746",
-            "git_last_date": "200301.140923",
+            "git_last_commit": "1657d3d1a5b7777f18146c29f88d1e35bc5ad954",
+            "git_last_date": "200319.200936",
             "name": "elementary-videos",
             "package_name": "elementary-videos",
             "package_version": "2.7.0",
@@ -553,8 +553,8 @@
         "128": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "13a92696bd38c04833e1a80eb0897a21cf38dbe8",
-            "git_last_date": "200311.093416",
+            "git_last_commit": "9c7308d18c54dab3898f438a461f449c086ed501",
+            "git_last_date": "200319.200935",
             "name": "wingpanel-applications-menu",
             "package_name": "wingpanel-applications-menu",
             "package_version": "2.5.0",
