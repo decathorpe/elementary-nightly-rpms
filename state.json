@@ -25,8 +25,8 @@
         "57": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "981f646ab7d37f26121518b2c2c3f768a6dba24a",
-            "git_last_date": "200319.190951",
+            "git_last_commit": "9d7ba3cf8c46f647bcd50e276361273bece396d9",
+            "git_last_date": "200327.190950",
             "name": "switchboard-plug-pantheon-shell",
             "package_name": "switchboard-plug-pantheon-shell",
             "package_version": "2.8.2",
@@ -47,8 +47,8 @@
         "63": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "05b41fa33ca2bd09eedb27a9b94c4cf6e9a3e5b6",
-            "git_last_date": "200324.180945",
+            "git_last_commit": "ffcdbb9d723f7d3a426e4254a0c660ba36756411",
+            "git_last_date": "200327.190951",
             "name": "switchboard-plug-onlineaccounts",
             "package_name": "switchboard-plug-onlineaccounts",
             "package_version": "2.0.1",
@@ -179,8 +179,8 @@
         "80": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "4e01892c7cbdd4f3563c353515451e871cbb78da",
-            "git_last_date": "200326.220947",
+            "git_last_commit": "d5192cd89b2516f34f0aed648ac0815a5f54fd97",
+            "git_last_date": "200327.190522",
             "name": "wingpanel-indicator-bluetooth",
             "package_name": "wingpanel-indicator-bluetooth",
             "package_version": "2.1.4",
@@ -300,8 +300,8 @@
         "95": {
             "git_branch": "master",
             "git_commit": "HEAD",
-            "git_last_commit": "75214d7fc8327295dabe0f874c156c09ae2d8417",
-            "git_last_date": "200326.220946",
+            "git_last_commit": "65e0790e4f7a35762afadd5cc15493c462e5851a",
+            "git_last_date": "200327.192452",
             "name": "wingpanel-indicator-network",
             "package_name": "wingpanel-indicator-network",
             "package_version": "2.2.2",
